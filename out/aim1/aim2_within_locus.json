@@ -1,0 +1,34 @@
+{
+ "loci_with_scored_candidate_genes": 587,
+ "loci_with_>=2_candidate_genes": 456,
+ "median_candidate_genes_per_locus(>=2)": 6.0,
+ "IQR_candidate_genes": [
+  3.0,
+  11.0
+ ],
+ "loci_identical_S_g(range<1e-6)": 183,
+ "pct_identical": 40.1,
+ "loci_range_S_g<0.05": 281,
+ "pct_range<0.05": 61.6,
+ "median_within_locus_SD_S_g": 0.0016,
+ "median_within_locus_range_S_g": 0.0043,
+ "IQR_range_S_g": [
+  0.0,
+  0.348
+ ],
+ "single_signal_loci(>=2 genes)": 257,
+ "single_signal_loci_identical": 179,
+ "multi_signal_loci(>=2 genes)": 199,
+ "multi_signal_loci_identical": 4,
+ "fraction_variance_within_locus_S_g": 0.274,
+ "fraction_variance_within_locus_ScoreA": 0.708,
+ "loci_identical_S_g_but_ScoreA_varies": 171,
+ "benchmark_loci(>=2 genes)": 81,
+ "benchmark_loci_bench_gene_uniquely_top_S_g": 6,
+ "benchmark_loci_bench_gene_uniquely_top_ScoreA": 24,
+ "benchmark_loci_expected_top_if_random_untied": 12.8,
+ "benchmark_loci_expected_top1_tie_broken_S_g": 12.4,
+ "benchmark_loci_expected_top1_tie_broken_ScoreA": 24.5,
+ "variance_decomposition_rows(locus-gene, unweighted, same rows for S_g and Score_A)": 4060,
+ "benchmark_loci_bench_tied_with_nonbench": 47
+}

@@ -1,0 +1,103 @@
+{
+  "N14_DIALYSIS": {
+    "rows": 2785041,
+    "pct_missing_beta_se_p": 0.0,
+    "multi_rsid_rows": 0,
+    "duplicated_rsid_rows": 10887,
+    "rsid_matched_to_liu": 2774032,
+    "pct_of_liu_window_rsids": 87.5,
+    "harmonization_pct": {
+      "aligned": 98.67,
+      "palindromic_dropped": 1.0,
+      "allele_mismatch": 0.24,
+      "strand_flip_aligned": 0.09
+    },
+    "pct_aligned_maf_diff_gt_0.2": 0.03,
+    "S8_signals": 2051,
+    "S8_signals_meeting_80pct_rule": 1808,
+    "pct_S8_signals_meeting_80pct_rule": 88.2,
+    "S8_signals_with_any_usable_variant": 1904
+  },
+  "Z21_KIDNEY_TRANSPLANT_STATUS": {
+    "rows": 2785044,
+    "pct_missing_beta_se_p": 0.0,
+    "multi_rsid_rows": 0,
+    "duplicated_rsid_rows": 10887,
+    "rsid_matched_to_liu": 2774035,
+    "pct_of_liu_window_rsids": 87.5,
+    "harmonization_pct": {
+      "aligned": 98.67,
+      "palindromic_dropped": 1.0,
+      "allele_mismatch": 0.24,
+      "strand_flip_aligned": 0.09
+    },
+    "pct_aligned_maf_diff_gt_0.2": 0.03,
+    "S8_signals": 2051,
+    "S8_signals_meeting_80pct_rule": 1808,
+    "pct_S8_signals_meeting_80pct_rule": 88.2,
+    "S8_signals_with_any_usable_variant": 1904
+  },
+  "N14_CHRONKIDNEYDIS": {
+    "rows": 2785043,
+    "pct_missing_beta_se_p": 0.0,
+    "multi_rsid_rows": 0,
+    "duplicated_rsid_rows": 10887,
+    "rsid_matched_to_liu": 2774034,
+    "pct_of_liu_window_rsids": 87.5,
+    "harmonization_pct": {
+      "aligned": 98.67,
+      "palindromic_dropped": 1.0,
+      "allele_mismatch": 0.24,
+      "strand_flip_aligned": 0.09
+    },
+    "pct_aligned_maf_diff_gt_0.2": 0.03,
+    "S8_signals": 2051,
+    "S8_signals_meeting_80pct_rule": 1808,
+    "pct_S8_signals_meeting_80pct_rule": 88.2,
+    "S8_signals_with_any_usable_variant": 1904
+  },
+  "N14_ACUTERENFAIL": {
+    "rows": 2785042,
+    "pct_missing_beta_se_p": 0.0,
+    "multi_rsid_rows": 0,
+    "duplicated_rsid_rows": 10887,
+    "rsid_matched_to_liu": 2774033,
+    "pct_of_liu_window_rsids": 87.5,
+    "harmonization_pct": {
+      "aligned": 98.67,
+      "palindromic_dropped": 1.0,
+      "allele_mismatch": 0.24,
+      "strand_flip_aligned": 0.09
+    },
+    "pct_aligned_maf_diff_gt_0.2": 0.03,
+    "S8_signals": 2051,
+    "S8_signals_meeting_80pct_rule": 1808,
+    "pct_S8_signals_meeting_80pct_rule": 88.2,
+    "S8_signals_with_any_usable_variant": 1904
+  },
+  "H7_VITROPACIT": {
+    "rows": 2785040,
+    "pct_missing_beta_se_p": 0.0,
+    "multi_rsid_rows": 0,
+    "duplicated_rsid_rows": 10887,
+    "rsid_matched_to_liu": 2774031,
+    "pct_of_liu_window_rsids": 87.5,
+    "harmonization_pct": {
+      "aligned": 98.67,
+      "palindromic_dropped": 1.0,
+      "allele_mismatch": 0.24,
+      "strand_flip_aligned": 0.09
+    },
+    "pct_aligned_maf_diff_gt_0.2": 0.03,
+    "S8_signals": 2051,
+    "S8_signals_meeting_80pct_rule": 1808,
+    "pct_S8_signals_meeting_80pct_rule": 88.2,
+    "S8_signals_with_any_usable_variant": 1904
+  },
+  "usable_variant_set_identical_across_endpoints": {
+    "Z21_KIDNEY_TRANSPLANT_STATUS": 2,
+    "N14_CHRONKIDNEYDIS": 1,
+    "N14_ACUTERENFAIL": 1,
+    "H7_VITROPACIT": 4
+  }
+}

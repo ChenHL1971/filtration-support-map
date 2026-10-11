@@ -1,0 +1,50 @@
+{
+ "covered_primary": {
+  "benchmark": "primary; genes with S_g only (post hoc)",
+  "positives": 88,
+  "genes": 3980,
+  "AUPRC_A": 0.0684,
+  "AUPRC_C_heldout": 0.0737,
+  "AUPRC_D": 0.0651,
+  "AUPRC_B_heldout": 0.0636,
+  "AUPRC_C_lambda1": 0.0678,
+  "baseline_prevalence": 0.0221,
+  "lambda_C_by_chrom": [
+   0.2,
+   0.3
+  ],
+  "lambda_C_median": 0.3,
+  "diff_C_minus_A": 0.0053,
+  "diff_C_minus_A_CI95": [
+   -0.0069,
+   0.0177
+  ],
+  "diff_D_minus_A": -0.0033,
+  "diff_B_minus_A": -0.0048,
+  "diff_C_lambda1_minus_A": -0.0006
+ },
+ "covered_groopman": {
+  "benchmark": "Groopman; genes with S_g only (post hoc)",
+  "positives": 168,
+  "genes": 3980,
+  "AUPRC_A": 0.0739,
+  "AUPRC_C_heldout": 0.0773,
+  "AUPRC_D": 0.0732,
+  "AUPRC_B_heldout": 0.0744,
+  "AUPRC_C_lambda1": 0.0673,
+  "baseline_prevalence": 0.0422,
+  "lambda_C_by_chrom": [
+   0.1,
+   0.3
+  ],
+  "lambda_C_median": 0.1,
+  "diff_C_minus_A": 0.0034,
+  "diff_C_minus_A_CI95": [
+   0.0009,
+   0.009
+  ],
+  "diff_D_minus_A": -0.0007,
+  "diff_B_minus_A": 0.0005,
+  "diff_C_lambda1_minus_A": -0.0066
+ }
+}

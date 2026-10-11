@@ -1,0 +1,41 @@
+{
+ "L1_logistic": {
+  "AUPRC_without_S": 0.1553,
+  "AUPRC_with_S": 0.1536,
+  "diff": -0.0017,
+  "diff_CI95": [
+   -0.004,
+   0.0006
+  ]
+ },
+ "XGBoost": {
+  "AUPRC_without_S": 0.1184,
+  "AUPRC_with_S": 0.1388,
+  "diff": 0.0205,
+  "diff_CI95": [
+   -0.0046,
+   0.0404
+  ]
+ },
+ "XGBoost_mean_abs_SHAP_top10": {
+  "Gene MousePhynotype": 0.6446999907493591,
+  "S_g": 0.33970001339912415,
+  "Same Top Cell Type": 0.16750000417232513,
+  "HMMReg": 0.149399995803833,
+  "ABC": 0.1356000006198883,
+  "Open4Gene link": 0.1160999983549118,
+  "snASA": 0.10570000112056732,
+  "S_missing": 0.09570000320672989,
+  "Gene MAGMA": 0.09319999814033508,
+  "BUN": 0.08380000293254852
+ },
+ "XGBoost_SHAP_rank_S_g": 2,
+ "coding_benchmark_within_locus": {
+  "eligible_loci": 21,
+  "top1_A": 0.548,
+  "top1_C_lambda0.4": 0.524,
+  "top1_C_lambda1": 0.571,
+  "loci_better_l1": 1,
+  "loci_worse_l1": 1
+ }
+}

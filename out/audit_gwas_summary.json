@@ -1,0 +1,59 @@
+{
+  "rows_after_filter": {
+    "liu_eGFRcrea": 3169232,
+    "ckdgen_eGFRcys": 1912533,
+    "ckdgen_BUN": 2027410
+  },
+  "eGFRcys_pct_effect_exactly_0": 4.31,
+  "eGFRcys_pct_SE_one_significant_digit": 73.5,
+  "eGFRcys_pct_P_zero_or_missing": 0.0,
+  "BUN_pct_effect_exactly_0": 3.96,
+  "BUN_pct_SE_one_significant_digit": 68.2,
+  "BUN_pct_P_zero_or_missing": 0.0,
+  "build_check_vs_S8_positions": {
+    "liu_eGFRcrea": {
+      "rsids_compared": 10004,
+      "pct_same_chr_pos": 100.0
+    },
+    "ckdgen_eGFRcys": {
+      "rsids_compared": 9593,
+      "pct_same_chr_pos": 100.0
+    },
+    "ckdgen_BUN": {
+      "rsids_compared": 9639,
+      "pct_same_chr_pos": 100.0
+    }
+  },
+  "harmonization_liu_vs_eGFRcys_pct": {
+    "aligned": 59.46,
+    "absent": 39.67,
+    "palindromic_dropped": 0.86,
+    "allele_mismatch": 0.0
+  },
+  "harmonization_liu_vs_BUN_pct": {
+    "aligned": 63.08,
+    "absent": 36.05,
+    "palindromic_dropped": 0.87,
+    "allele_mismatch": 0.0
+  },
+  "cs_coverage_S8_multi_vs_eGFRcys": {
+    "signals": 2051,
+    "signals_meeting_80pct_rule": 1752,
+    "pct_signals_meeting_80pct_rule": 85.4,
+    "cs_variants_present_in_liu_EUR_file_pct": 99.0
+  },
+  "cs_coverage_S8_multi_vs_BUN": {
+    "signals": 2051,
+    "signals_meeting_80pct_rule": 1778,
+    "pct_signals_meeting_80pct_rule": 86.7,
+    "cs_variants_present_in_liu_EUR_file_pct": 99.0
+  },
+  "cs_coverage_S7_eur_vs_eGFRcys": {
+    "signals": 1818,
+    "signals_meeting_80pct_rule": 1555,
+    "pct_signals_meeting_80pct_rule": 85.5,
+    "cs_variants_present_in_liu_EUR_file_pct": 100.0
+  },
+  "eGFRcys_pct_z_recoverable_from_P_and_sign": 96.02,
+  "BUN_pct_z_recoverable_from_P_and_sign": 96.08
+}

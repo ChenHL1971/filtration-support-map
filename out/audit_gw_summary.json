@@ -1,0 +1,271 @@
+{
+  "missing_feature_columns": [],
+  "feature_inventory": [
+    {
+      "feature": "eGFRcys",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 72.94
+    },
+    {
+      "feature": "BUN",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 40.16
+    },
+    {
+      "feature": "TSS1Kb",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 0.56
+    },
+    {
+      "feature": "CredibleSet",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 8.67
+    },
+    {
+      "feature": "snATACPeak",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 32.71
+    },
+    {
+      "feature": "bASA",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 29.31
+    },
+    {
+      "feature": "snASA",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 1.41
+    },
+    {
+      "feature": "HMMReg",
+      "group": "variant",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 20.92
+    },
+    {
+      "feature": "Gene CDS",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 30.84
+    },
+    {
+      "feature": "Gene CDS pLoF",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 3.12
+    },
+    {
+      "feature": "Gene CDS Missense",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 21.35
+    },
+    {
+      "feature": "Gene CDS eGFRcys",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 22.76
+    },
+    {
+      "feature": "Gene CDS BUN",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 14.13
+    },
+    {
+      "feature": "Gene CDS CredibleSet",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 3.79
+    },
+    {
+      "feature": "Gene ExWAS",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 1.82
+    },
+    {
+      "feature": "Gene Monogenic",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 8.89
+    },
+    {
+      "feature": "Gene MousePhynotype",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 5.97
+    },
+    {
+      "feature": "Gene PheWAS",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 1.52
+    },
+    {
+      "feature": "Gene MAGMA",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 62.02
+    },
+    {
+      "feature": "Gene DEPICT",
+      "group": "gene",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 24.78
+    },
+    {
+      "feature": "ASE of Tubule",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 11.28
+    },
+    {
+      "feature": "ASE of Glomerlus",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 10.39
+    },
+    {
+      "feature": "eQTL",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 15.8
+    },
+    {
+      "feature": "Coloc with tubule ASE",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 3.66
+    },
+    {
+      "feature": "Coloc with glomerlus ASE",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 3.19
+    },
+    {
+      "feature": "Coloc with kidney eQTL",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 5.07
+    },
+    {
+      "feature": "Open4Gene link",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 2.45
+    },
+    {
+      "feature": "Same Top Cell Type",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 9.14
+    },
+    {
+      "feature": "meQTL",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 65.67
+    },
+    {
+      "feature": "Coaccess",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 10.03
+    },
+    {
+      "feature": "ABC",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 13.13
+    },
+    {
+      "feature": "cS2G",
+      "group": "target",
+      "values": "0,1",
+      "missing_pct": 0.0,
+      "pct_one": 9.58
+    }
+  ],
+  "score_reconstruction_match_fraction": {
+    "variant": 1.0,
+    "gene": 1.0,
+    "target": 1.0,
+    "total": 1.0
+  },
+  "rows_variant_gene_pairs": 367308,
+  "unique_variants": 74673,
+  "unique_genes": 8209,
+  "unique_loci": 957,
+  "prioritization_score_range": [
+    1.0,
+    27.0
+  ],
+  "pct_pairs_target_score_0": 0.0,
+  "genes_per_variant": {
+    "count": 74673.0,
+    "mean": 4.92,
+    "std": 4.92,
+    "min": 1.0,
+    "25%": 2.0,
+    "50%": 3.0,
+    "75%": 7.0,
+    "max": 76.0
+  },
+  "pct_variants_linked_to_>=2_genes": 75.5,
+  "biomarker_columns_pct_one": {
+    "eGFRcys": 72.9,
+    "BUN": 40.2,
+    "Gene CDS eGFRcys": 22.8,
+    "Gene CDS BUN": 14.1
+  },
+  "multi_cs_signals_total": 2051,
+  "pct_pairs_with_cs_signal": 4.65,
+  "signals_with_>=1_gene_pair": 1067,
+  "pct_signals_with_>=1_gene_pair": 52.0,
+  "signals_with_>=1_gene_link_target_score>0": 1067,
+  "pct_signals_with_link_target_score>0": 52.0,
+  "within_locus_eligible_loci_strict": 56,
+  "within_locus_eligible_loci_relaxed": 229,
+  "loci_with_>=2_signals_total": 579,
+  "loci_where_signals_link_to_different_gene_sets": 225
+}

@@ -1,0 +1,40 @@
+{
+ "fold_specific_standardization": {
+  "AUPRC_A": 0.0477,
+  "AUPRC_C": 0.0473,
+  "diff": -0.0004,
+  "CI95": [
+   -0.0076,
+   0.0053
+  ],
+  "lambdas": [
+   0.1,
+   0.2,
+   0.3,
+   0.4,
+   0.5
+  ]
+ },
+ "no_direction_rule": {
+  "AUPRC_C": 0.0474,
+  "diff": -0.0004,
+  "CI95": [
+   -0.0063,
+   0.0051
+  ],
+  "lambdas": [
+   0.1,
+   0.2,
+   0.3,
+   0.4
+  ],
+  "n_ge08": 291,
+  "n_lt02": 1257,
+  "titan": {
+   "med_cr": 0.002,
+   "med_gfr": 0.43,
+   "p": 1.7020291755805816e-06
+  }
+ },
+ "baseline_precision": 0.0188
+}

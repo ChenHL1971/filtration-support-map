@@ -1,0 +1,38 @@
+{
+ "lead_variant": {
+  "n_cr": 11,
+  "n_gfr": 124,
+  "med_cr": 0.002,
+  "med_gfr": 0.392,
+  "p_one_sided": 3.788523696848489e-06,
+  "HL_shift": -0.389,
+  "HL_CI95_percentile_bootstrap_5000": [
+   -0.75,
+   -0.13
+  ]
+ },
+ "direct_only": {
+  "n_cr": 8,
+  "n_gfr": 106,
+  "med_cr": 0.002,
+  "med_gfr": 0.347,
+  "p_one_sided": 7.227634867441334e-05,
+  "HL_shift": -0.344
+ },
+ "region_52_loci": {
+  "n_cr": 71,
+  "n_gfr": 946,
+  "med_cr": 0.001,
+  "med_gfr": 0.032,
+  "p_one_sided": 2.676492526832235e-11,
+  "HL_shift": -0.022
+ },
+ "region_54_loci": {
+  "n_cr": 73,
+  "n_gfr": 946,
+  "med_cr": 0.001,
+  "med_gfr": 0.032,
+  "p_one_sided": 1.0563065876709353e-11,
+  "HL_shift": -0.022
+ }
+}

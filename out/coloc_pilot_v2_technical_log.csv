@@ -1,0 +1,27 @@
+locus,n_signals_S8,status,note,ukb_snps_in_locus,variants_used,orientation_pairs,orientation_sign_agree_pct,s_liu_before,s_cys_before,qc_removed,s_liu_after,s_cys_after,converged_liu,converged_cys,cs_liu,cs_cys,warnings,coloc_method,coloc_pairs,technical_pass,runtime_sec
+chr8_95536000_96088358,3,ok,no credible set in at least one trait,2477,1659,201330,100,0.016,0.000542,0,0.016,0.000542,TRUE,TRUE,0,0,"minimum p value is: 2.057e-05
+If this is what you expected, this is not a problem.
+If this is not as",none,0,TRUE,89.2
+chr14_93283739_93740448,4,ok,"",2193,1486,85504,100,0.0225,0.000597,0,0.0225,0.000597,TRUE,TRUE,3,1,"",coloc.susie,3,TRUE,62.7
+chr12_57458505_58522642,3,ok,"",3412,1770,203739,100,0.0141,0.000624,0,0.0141,0.000624,TRUE,TRUE,2,1,"",coloc.susie,2,TRUE,96.9
+chr1_170549277_170889861,2,ok,no credible set in at least one trait,1419,890,77527,100,0.0116,0.000783,0,0.0116,0.000783,TRUE,TRUE,1,0,"minimum p value is: 0.03116
+If this is what you expected, this is not a problem.
+If this is not as s",none,0,TRUE,21.2
+chr11_5432222_5722790,3,ok,no credible set in at least one trait,2184,1459,86408,100,0.0193,0.00065,0,0.0193,0.00065,TRUE,TRUE,2,0,"minimum p value is: 0.004502
+If this is what you expected, this is not a problem.
+If this is not as ",none,0,TRUE,60.5
+chr12_94619017_94819017,3,ok,no credible set in at least one trait,805,493,16911,100,0.00872,0.000563,0,0.00872,0.000563,TRUE,TRUE,1,0,"minimum p value is: 0.009285
+If this is what you expected, this is not a problem.
+If this is not as ",none,0,TRUE,11.8
+chr9_33564300_34462220,2,ok,no credible set in at least one trait,3939,2168,430797,100,0.0199,0.00056,0,0.0199,0.00056,TRUE,TRUE,2,0,"minimum p value is: 0.005883
+If this is what you expected, this is not a problem.
+If this is not as ",none,0,TRUE,174.5
+chr6_7594730_7825760,4,ok,no credible set in at least one trait,1136,694,20770,100,0.0121,0.000326,0,0.0121,0.000326,TRUE,TRUE,2,0,"minimum p value is: 0.0007564
+If this is what you expected, this is not a problem.
+If this is not as",none,0,TRUE,14.6
+chr12_6734213_6941813,1,ok,no credible set in at least one trait,835,479,14159,100,0.0176,0.00038,0,0.0176,0.00038,TRUE,TRUE,1,0,"minimum p value is: 4.068e-06
+If this is what you expected, this is not a problem.
+If this is not as",none,0,TRUE,11.5
+chr6_130211831_130559410,1,ok,no credible set in at least one trait,1581,1019,44140,100,0.0103,0.000385,0,0.0103,0.000385,TRUE,TRUE,1,0,"minimum p value is: 0.0004496
+If this is what you expected, this is not a problem.
+If this is not as",none,0,TRUE,27.5

@@ -1,0 +1,693 @@
+marker,class,signal_id,how
+10:88953882_A_T,Creatinine-specific,,no S8 signal in LD
+10:94103516_G_A,Creatinine-specific,,no S8 signal in LD
+11:16240252_T_C,Creatinine-specific,,no S8 signal in LD
+11:57536346_C_T,Creatinine-specific,chr11_57301183_57759832|CS-1,LD r2 >= 0.8
+12:48644810_G_A,Creatinine-specific,,no S8 signal in LD
+12:53822992_T_C,Creatinine-specific,,no S8 signal in LD
+12:89751598_A_AT,Creatinine-specific,,lead not in reference
+12:90346110_T_C,Creatinine-specific,,no S8 signal in LD
+13:27750494_C_T,Creatinine-specific,,no S8 signal in LD
+14:35618315_T_C,Creatinine-specific,,no S8 signal in LD
+14:68089430_G_A,Creatinine-specific,chr14_67972315_68289736|CS-3,LD r2 >= 0.8
+15:45620147_T_A,Creatinine-specific,,no S8 signal in LD
+15:49906971_G_A,Creatinine-specific,,no S8 signal in LD
+15:85256303_T_C,Creatinine-specific,,no S8 signal in LD
+16:71816191_G_A,Creatinine-specific,,no S8 signal in LD
+16:83979317_T_C,Creatinine-specific,,no S8 signal in LD
+16:88003710_T_C,Creatinine-specific,chr16_87884477_88139447|CS-1,LD r2 >= 0.8
+17:19483855_A_G,Creatinine-specific,,no S8 signal in LD
+17:66461071_G_GT,Creatinine-specific,,lead not in reference
+18:44532455_C_T,Creatinine-specific,,no S8 signal within 500 kb
+18:59339373_A_G,Creatinine-specific,,no S8 signal in LD
+18:71943144_A_G,Creatinine-specific,,no S8 signal in LD
+19:5825820_C_T,Creatinine-specific,,no S8 signal within 500 kb
+1:113256382_A_C,Creatinine-specific,,no S8 signal in LD
+1:200957697_A_G,Creatinine-specific,,no S8 signal in LD
+1:208044590_A_G,Creatinine-specific,,no S8 signal in LD
+1:228551485_A_G,Creatinine-specific,chr1_228089495_228659994|CS-2,LD r2 >= 0.8
+1:244405398_T_A,Creatinine-specific,,no S8 signal within 500 kb
+1:9429264_G_GT,Creatinine-specific,,no S8 signal within 500 kb
+22:30265344_C_T,Creatinine-specific,chr22_29648948_30691169|CS-3,LD r2 >= 0.8
+2:208463210_TAA_T,Creatinine-specific,,lead not in reference
+2:220357594_C_A,Creatinine-specific,chr2_220199018_220532957|CS-4,LD r2 >= 0.8
+2:230667539_T_C,Creatinine-specific,chr2_230497632_230926792|CS-1,LD r2 >= 0.8
+2:69931581_T_C,Creatinine-specific,,no S8 signal within 500 kb
+3:125916110_G_A,Creatinine-specific,chr3_125754409_126087285|CS-2,in credible set
+3:134380649_G_GC,Creatinine-specific,,lead not in reference
+3:196844259_G_A,Creatinine-specific,,no S8 signal in LD
+3:38494220_T_C,Creatinine-specific,chr3_38317345_38720442|CS-1,LD r2 >= 0.8
+3:57173021_A_T,Creatinine-specific,,no S8 signal within 500 kb
+3:67134360_A_G,Creatinine-specific,,no S8 signal within 500 kb
+4:149642392_T_C,Creatinine-specific,,no S8 signal within 500 kb
+4:3471914_G_T,Creatinine-specific,,no S8 signal in LD
+4:52735484_G_A,Creatinine-specific,,no S8 signal in LD
+5:86303398_A_G,Creatinine-specific,,no S8 signal within 500 kb
+5:90606587_C_T,Creatinine-specific,,no S8 signal in LD
+6:131868219_A_G,Creatinine-specific,chr6_131624414_132067804|CS-4,LD r2 >= 0.8
+6:160652929_T_G,Creatinine-specific,chr6_159853676_161395188|CS-5,in credible set
+7:56090752_G_C,Creatinine-specific,chr7_55842697_56286249|CS-1,LD r2 >= 0.8
+8:110087249_G_A,Creatinine-specific,,no S8 signal in LD
+8:129945713_A_C,Creatinine-specific,chr8_129814248_130093563|CS-1,LD r2 >= 0.8
+8:144981488_G_A,Creatinine-specific,,no S8 signal in LD
+8:27950008_G_A,Creatinine-specific,,no S8 signal within 500 kb
+9:136145471_A_G,Creatinine-specific,,no S8 signal in LD
+9:33992591_C_T,Creatinine-specific,,no S8 signal in LD
+11:60152584_G_A,Cystatin-specific,,no S8 signal within 500 kb
+12:114301950_T_G,Cystatin-specific,,no S8 signal within 500 kb
+12:123794557_C_G,Cystatin-specific,,no S8 signal within 500 kb
+12:124767937_C_CT,Cystatin-specific,,lead not in reference
+12:54650862_AAACTCC_A,Cystatin-specific,,no S8 signal within 500 kb
+12:6695278_T_C,Cystatin-specific,,lead not in reference
+16:11169683_T_G,Cystatin-specific,,no S8 signal within 500 kb
+16:24758400_A_AATGTACC,Cystatin-specific,,no S8 signal within 500 kb
+16:81821282_G_T,Cystatin-specific,,lead not in reference
+17:18110681_G_GA,Cystatin-specific,,lead not in reference
+18:40730509_C_T,Cystatin-specific,,no S8 signal in LD
+18:6726683_C_T,Cystatin-specific,,no S8 signal within 500 kb
+19:10492274_C_T,Cystatin-specific,,no S8 signal within 500 kb
+19:55824817_CTG_C,Cystatin-specific,,no S8 signal within 500 kb
+1:107579540_G_A,Cystatin-specific,,no S8 signal within 500 kb
+1:110761212_C_CA,Cystatin-specific,,no S8 signal within 500 kb
+1:11252716_T_C,Cystatin-specific,,lead not in reference
+1:11879699_A_G,Cystatin-specific,,no S8 signal in LD
+1:120218998_C_G,Cystatin-specific,,no S8 signal within 500 kb
+1:159001065_T_C,Cystatin-specific,,no S8 signal within 500 kb
+1:197611682_C_A,Cystatin-specific,,no S8 signal within 500 kb
+1:59646524_G_A,Cystatin-specific,,no S8 signal within 500 kb
+20:23753756_G_A,Cystatin-specific,,no S8 signal within 500 kb
+20:50254238_G_GT,Cystatin-specific,,no S8 signal within 500 kb
+20:56888213_C_A,Cystatin-specific,,no S8 signal within 500 kb
+21:36350221_C_T,Cystatin-specific,,no S8 signal within 500 kb
+22:17653221_C_G,Cystatin-specific,,no S8 signal within 500 kb
+2:166185721_A_C,Cystatin-specific,,no S8 signal within 500 kb
+2:171642356_A_G,Cystatin-specific,,no S8 signal within 500 kb
+2:191339895_C_G,Cystatin-specific,,no S8 signal within 500 kb
+2:203706530_G_C,Cystatin-specific,,no S8 signal in LD
+2:48631628_T_G,Cystatin-specific,,no S8 signal within 500 kb
+3:12508521_A_C,Cystatin-specific,,no S8 signal in LD
+3:188125120_C_T,Cystatin-specific,,lead not in reference
+3:37126348_T_TA,Cystatin-specific,,no S8 signal within 500 kb
+4:151188215_G_T,Cystatin-specific,,no S8 signal within 500 kb
+4:187008844_G_A,Cystatin-specific,,no S8 signal within 500 kb
+4:99790183_G_T,Cystatin-specific,,lead not in reference
+5:108756179_G_A,Cystatin-specific,,no S8 signal within 500 kb
+5:43162608_T_C,Cystatin-specific,,no S8 signal within 500 kb
+5:96292318_G_A,Cystatin-specific,,no S8 signal within 500 kb
+6:1615504_C_T,Cystatin-specific,,lead not in reference
+6:81933485_G_A,Cystatin-specific,,no S8 signal within 500 kb
+7:134506365_G_A,Cystatin-specific,,no S8 signal within 500 kb
+7:22785717_A_G,Cystatin-specific,,lead not in reference
+7:44841245_AAG_A,Cystatin-specific,,lead not in reference
+9:35752252_G_A,Cystatin-specific,,no S8 signal within 500 kb
+9:96943059_G_A,Cystatin-specific,,lead not in reference
+10:101608730_C_T,GFR-associated,chr10_101233051_101915573|CS-3,in credible set
+10:104482331_G_A,GFR-associated,,no S8 signal in LD
+10:111991883_T_C,GFR-associated,,no S8 signal within 500 kb
+10:118619783_A_G,GFR-associated,,no S8 signal within 500 kb
+10:119448066_A_G,GFR-associated,,no S8 signal within 500 kb
+10:120254301_G_C,GFR-associated,chr10_120148621_120362844|CS-3,in credible set
+10:126426148_G_C,GFR-associated,chr10_126197670_126758893|CS-1,LD r2 >= 0.8
+10:131367368_C_T,GFR-associated,,no S8 signal in LD
+10:134477720_A_G,GFR-associated,,no S8 signal in LD
+10:23871366_T_G,GFR-associated,chr10_23744012_23959592|CS-1,LD r2 >= 0.8
+10:24889383_G_C,GFR-associated,chr10_24789383_24990828|CS-1,in credible set
+10:28843854_T_C,GFR-associated,,no S8 signal in LD
+10:29753620_C_T,GFR-associated,,no S8 signal in LD
+10:33965044_A_G,GFR-associated,,no S8 signal within 500 kb
+10:35052212_T_G,GFR-associated,chr10_34857566_35270978|CS-2,LD r2 >= 0.8
+10:50928923_T_C,GFR-associated,,no S8 signal in LD
+10:51748684_G_A,GFR-associated,,no S8 signal in LD
+10:52546689_C_G,GFR-associated,,no S8 signal in LD
+10:6015384_G_A,GFR-associated,,no S8 signal within 500 kb
+10:64540910_G_A,GFR-associated,chr10_64371946_64640910|CS-1,LD r2 >= 0.8
+10:69975677_C_G,GFR-associated,,no S8 signal in LD
+10:76084389_G_C,GFR-associated,chr10_74660108_76606933|CS-3,LD r2 >= 0.8
+10:81162617_A_T,GFR-associated,chr10_81050283_81269345|CS-2,in credible set
+10:82159539_C_A,GFR-associated,,no S8 signal in LD
+10:851378_T_G,GFR-associated,,no S8 signal in LD
+10:90187924_G_A,GFR-associated,chr10_90125923_90335457|CS-1,LD r2 >= 0.8
+10:91296961_A_G,GFR-associated,,no S8 signal in LD
+10:97291472_C_A,GFR-associated,chr10_97136414_97408951|CS-3,LD r2 >= 0.8
+11:10188446_T_G,GFR-associated,,no S8 signal in LD
+11:111542506_A_G,GFR-associated,,no S8 signal in LD
+11:114027369_G_C,GFR-associated,,no S8 signal in LD
+11:121621501_T_C,GFR-associated,,no S8 signal in LD
+11:122519022_T_G,GFR-associated,,no S8 signal in LD
+11:126165882_G_A,GFR-associated,,no S8 signal in LD
+11:128650925_A_G,GFR-associated,,no S8 signal in LD
+11:130014957_T_C,GFR-associated,,no S8 signal within 500 kb
+11:15877212_T_C,GFR-associated,,no S8 signal in LD
+11:17029825_T_G,GFR-associated,chr11_16925712_17136466|CS-3,LD r2 >= 0.8
+11:1703961_GGCAGTGGGACA_G,GFR-associated,,lead not in reference
+11:18002450_C_T,GFR-associated,,lead not in reference
+11:2140530_C_T,GFR-associated,,no S8 signal in LD
+11:2773108_G_C,GFR-associated,chr11_2543991_3055214|CS-2,in credible set
+11:28164861_A_G,GFR-associated,,no S8 signal in LD
+11:30851403_A_C,GFR-associated,,no S8 signal in LD
+11:320836_C_T,GFR-associated,,no S8 signal in LD
+11:32696543_C_T,GFR-associated,,no S8 signal in LD
+11:36506054_T_G,GFR-associated,,no S8 signal within 500 kb
+11:48102806_C_T,GFR-associated,,no S8 signal within 500 kb
+11:51509165_C_T,GFR-associated,chr11_51209993_51652912|CS-1,in credible set
+11:54906038_T_C,GFR-associated,chr11_54597941_55966818|CS-1,LD r2 >= 0.8
+11:5574493_C_T,GFR-associated,chr11_5432222_5722790|CS-2,LD r2 >= 0.8
+11:61592362_A_G,GFR-associated,,no S8 signal in LD
+11:64003843_G_T,GFR-associated,,no S8 signal within 500 kb
+11:65457511_CTT_C,GFR-associated,,lead not in reference
+11:68927048_T_C,GFR-associated,,no S8 signal in LD
+11:74394714_C_G,GFR-associated,,no S8 signal in LD
+11:75522773_T_C,GFR-associated,,no S8 signal in LD
+11:78123831_T_C,GFR-associated,chr11_77809014_78450130|CS-2,in credible set
+11:8044745_C_T,GFR-associated,chr11_7930947_8194069|CS-1,LD r2 >= 0.8
+11:87184665_C_CAG,GFR-associated,,no S8 signal within 500 kb
+12:112266624_G_C,GFR-associated,,no S8 signal in LD
+12:115472242_G_A,GFR-associated,,no S8 signal in LD
+12:115759818_G_A,GFR-associated,,no S8 signal in LD
+12:11781035_A_G,GFR-associated,,lead not in reference
+12:121419089_G_A,GFR-associated,,no S8 signal in LD
+12:12205282_A_G,GFR-associated,chr12_12073280_12311187|CS-1,LD r2 >= 0.8
+12:124445569_C_G,GFR-associated,chr12_124303769_124592610|CS-2,LD r2 >= 0.8
+12:15082004_T_A,GFR-associated,,no S8 signal in LD
+12:20373541_A_G,GFR-associated,chr12_20237431_20480250|CS-1,in credible set
+12:2068119_G_A,GFR-associated,,lead not in reference
+12:21367633_G_A,GFR-associated,,no S8 signal within 500 kb
+12:25410741_G_C,GFR-associated,,no S8 signal within 500 kb
+12:31628073_T_C,GFR-associated,,no S8 signal in LD
+12:3356086_G_A,GFR-associated,,no S8 signal in LD
+12:42682902_G_A,GFR-associated,,no S8 signal in LD
+12:440257_G_GA,GFR-associated,,lead not in reference
+12:4492806_C_T,GFR-associated,,no S8 signal in LD
+12:48173487_T_C,GFR-associated,chr12_48057371_48281028|CS-4,LD r2 >= 0.8
+12:50248345_T_A,GFR-associated,,no S8 signal in LD
+12:52313196_T_A,GFR-associated,,no S8 signal in LD
+12:53364233_G_A,GFR-associated,chr12_53260919_53468151|CS-1,LD r2 >= 0.8
+12:57711416_TA_T,GFR-associated,,lead not in reference
+12:63604067_T_C,GFR-associated,,no S8 signal within 500 kb
+12:64440703_A_C,GFR-associated,,no S8 signal within 500 kb
+12:65995405_C_G,GFR-associated,,no S8 signal in LD
+12:67684702_T_C,GFR-associated,chr12_67538704_67909234|CS-2,in credible set
+12:69766273_C_CCCTCTGG,GFR-associated,,lead not in reference
+12:78794395_A_C,GFR-associated,,no S8 signal in LD
+12:82219376_C_T,GFR-associated,chr12_82001514_82423499|CS-1,LD r2 >= 0.8
+12:84164756_C_CTTGG,GFR-associated,,lead not in reference
+12:93962959_T_C,GFR-associated,chr12_93859918_94085482|CS-1,in credible set
+13:110399049_A_G,GFR-associated,,no S8 signal in LD
+13:111040681_G_A,GFR-associated,,no S8 signal in LD
+13:115019941_T_G,GFR-associated,,no S8 signal within 500 kb
+13:32543737_A_T,GFR-associated,chr13_32201861_32647131|CS-2,in credible set
+13:33070342_A_AT,GFR-associated,,no S8 signal within 500 kb
+13:41644956_A_C,GFR-associated,,no S8 signal within 500 kb
+13:42749606_C_T,GFR-associated,chr13_42546769_42887040|CS-1,LD r2 >= 0.8
+13:48598834_A_G,GFR-associated,,no S8 signal in LD
+13:50226124_G_C,GFR-associated,,no S8 signal in LD
+13:58582511_G_T,GFR-associated,,no S8 signal within 500 kb
+13:72369156_A_C,GFR-associated,chr13_72230656_72501045|CS-1,LD r2 >= 0.8
+13:72369156_A_C,GFR-associated,chr13_72230656_72501045|CS-3,LD r2 >= 0.8
+13:73526502_T_C,GFR-associated,,no S8 signal in LD
+13:74718939_C_G,GFR-associated,,no S8 signal in LD
+13:96332651_C_T,GFR-associated,,lead not in reference
+13:97989911_A_G,GFR-associated,,no S8 signal within 500 kb
+13:99784845_A_G,GFR-associated,,no S8 signal within 500 kb
+14:100809065_A_T,GFR-associated,,no S8 signal in LD
+14:102769583_ACAT_A,GFR-associated,,lead not in reference
+14:104244583_C_T,GFR-associated,,lead not in reference
+14:105583264_T_C,GFR-associated,chr14_105483264_105684431|CS-1,LD r2 >= 0.8
+14:23592539_CAGGGA_C,GFR-associated,,lead not in reference
+14:31739259_C_G,GFR-associated,chr14_31261742_32054612|CS-3,LD r2 >= 0.8
+14:37797239_CAG_C,GFR-associated,,lead not in reference
+14:54419110_G_C,GFR-associated,,no S8 signal in LD
+14:60699368_C_T,GFR-associated,chr14_60505943_60741082|CS-2,LD r2 >= 0.8
+14:73631955_C_T,GFR-associated,,no S8 signal in LD
+14:80604864_C_T,GFR-associated,chr14_80364293_80888373|CS-2,in credible set
+14:88977744_C_T,GFR-associated,chr14_88684398_89455721|CS-1,LD r2 >= 0.8
+14:93568477_G_A,GFR-associated,,no S8 signal in LD
+14:94756943_G_C,GFR-associated,,no S8 signal within 500 kb
+14:99746274_A_T,GFR-associated,,no S8 signal in LD
+15:33333574_T_C,GFR-associated,,no S8 signal within 500 kb
+15:39274752_T_G,GFR-associated,chr15_39096605_39424690|CS-1,LD r2 >= 0.8
+15:41499734_T_C,GFR-associated,,no S8 signal in LD
+15:44019788_A_G,GFR-associated,,no S8 signal within 500 kb
+15:53976565_G_A,GFR-associated,chr15_53672431_54229073|CS-1,LD r2 >= 0.8
+15:57779564_C_CA,GFR-associated,,lead not in reference
+15:60899031_GAAAT_G,GFR-associated,,no S8 signal within 500 kb
+15:62896893_CT_C,GFR-associated,,lead not in reference
+15:63412154_A_G,GFR-associated,,no S8 signal in LD
+15:67366833_T_A,GFR-associated,chr15_67233223_67761784|CS-2,LD r2 >= 0.8
+15:72564492_C_T,GFR-associated,,no S8 signal within 500 kb
+15:76145625_G_A,GFR-associated,,no S8 signal in LD
+15:78985317_G_A,GFR-associated,,no S8 signal in LD
+15:81156137_C_T,GFR-associated,chr15_81035449_81271790|CS-1,in credible set
+15:82500460_A_G,GFR-associated,,no S8 signal in LD
+15:83368514_T_G,GFR-associated,,no S8 signal in LD
+15:93477654_AGG_A,GFR-associated,,lead not in reference
+15:96704448_T_G,GFR-associated,,no S8 signal within 500 kb
+15:98358129_C_CAT,GFR-associated,,lead not in reference
+15:99276257_C_G,GFR-associated,chr15_99078274_99420851|CS-6,LD r2 >= 0.8
+16:20727367_AC_A,GFR-associated,,lead not in reference
+16:2154537_G_A,GFR-associated,,no S8 signal in LD
+16:28296068_G_A,GFR-associated,,no S8 signal within 500 kb
+16:28593073_C_T,GFR-associated,,lead not in reference
+16:29972465_C_CA,GFR-associated,,no S8 signal within 500 kb
+16:30725355_A_T,GFR-associated,,no S8 signal within 500 kb
+16:3621384_C_CA,GFR-associated,,lead not in reference
+16:4414727_G_A,GFR-associated,,no S8 signal in LD
+16:51727183_C_T,GFR-associated,chr16_51587015_51962835|CS-2,LD r2 >= 0.8
+16:53265166_T_A,GFR-associated,,no S8 signal in LD
+16:53818834_A_G,GFR-associated,chr16_53766767_53985264|CS-3,in credible set
+16:57000885_G_A,GFR-associated,,no S8 signal within 500 kb
+16:64529762_G_A,GFR-associated,,no S8 signal within 500 kb
+16:670168_A_G,GFR-associated,,lead not in reference
+16:68363181_G_A,GFR-associated,chr16_67267829_68780280|CS-1,LD r2 >= 0.8
+16:69878534_C_G,GFR-associated,,no S8 signal in LD
+16:7162686_G_T,GFR-associated,,no S8 signal within 500 kb
+16:73030052_G_A,GFR-associated,,no S8 signal in LD
+16:74516419_C_T,GFR-associated,,no S8 signal within 500 kb
+16:79802404_C_A,GFR-associated,,no S8 signal in LD
+16:81049626_A_G,GFR-associated,,no S8 signal in LD
+16:84776286_C_G,GFR-associated,chr16_84752313_84957378|CS-2,LD r2 >= 0.8
+16:89682491_C_A,GFR-associated,,no S8 signal in LD
+17:12618437_A_G,GFR-associated,,lead not in reference
+17:1519332_G_A,GFR-associated,chr17_1408522_1755605|CS-2,LD r2 >= 0.8
+17:1993498_G_A,GFR-associated,,no S8 signal in LD
+17:26719788_G_A,GFR-associated,,no S8 signal within 500 kb
+17:34914601_CT_C,GFR-associated,,lead not in reference
+17:36102381_A_G,GFR-associated,,no S8 signal within 500 kb
+17:37824339_G_A,GFR-associated,,no S8 signal in LD
+17:40510316_T_C,GFR-associated,chr17_40350891_40645770|CS-1,LD r2 >= 0.8
+17:42339745_C_T,GFR-associated,,no S8 signal within 500 kb
+17:43231991_T_G,GFR-associated,,lead not in reference
+17:44996245_C_T,GFR-associated,,no S8 signal in LD
+17:46890963_T_C,GFR-associated,,no S8 signal in LD
+17:48629926_C_CT,GFR-associated,,lead not in reference
+17:54776855_T_A,GFR-associated,,no S8 signal in LD
+17:58204913_TGTGA_T,GFR-associated,,lead not in reference
+17:60618109_A_G,GFR-associated,chr17_60438777_60810038|CS-2,LD r2 >= 0.8
+17:65374725_G_A,GFR-associated,chr17_65243997_65496360|CS-1,in credible set
+17:73371468_G_GA,GFR-associated,,lead not in reference
+17:7433459_G_A,GFR-associated,,no S8 signal in LD
+17:79599441_T_C,GFR-associated,chr17_79410899_79790196|CS-2,LD r2 >= 0.8
+18:19180878_C_T,GFR-associated,chr18_18427782_19694845|CS-4,LD r2 >= 0.8
+18:20724931_A_T,GFR-associated,,no S8 signal within 500 kb
+18:24331466_G_A,GFR-associated,chr18_24219537_24552435|CS-4,LD r2 >= 0.8
+18:32638761_CT_C,GFR-associated,,no S8 signal within 500 kb
+18:42230746_G_GTCTCTC,GFR-associated,,lead not in reference
+18:42736868_G_A,GFR-associated,,no S8 signal in LD
+18:46461786_T_C,GFR-associated,,lead not in reference
+18:53166557_C_T,GFR-associated,,no S8 signal in LD
+18:5593299_G_A,GFR-associated,chr18_5473994_5730676|CS-1,LD r2 >= 0.8
+18:57863231_T_A,GFR-associated,chr18_57764092_58011330|CS-2,LD r2 >= 0.8
+18:77184792_A_C,GFR-associated,,lead not in reference
+19:1167157_C_T,GFR-associated,,no S8 signal in LD
+19:14177828_T_C,GFR-associated,chr19_14070423_14295483|CS-2,in credible set
+19:14585746_T_C,GFR-associated,chr19_14478354_14690919|CS-1,LD r2 >= 0.8
+19:15498714_A_G,GFR-associated,chr19_15364920_15639439|CS-1,LD r2 >= 0.8
+19:16775687_T_TA,GFR-associated,,no S8 signal within 500 kb
+19:18379179_G_A,GFR-associated,,no S8 signal in LD
+19:19487302_C_T,GFR-associated,chr19_19225963_19846151|CS-3,LD r2 >= 0.8
+19:33306044_CTGACTAGGGGTTTATCCCAGATTTGCAATTTGGTCT_C,GFR-associated,,lead not in reference
+19:3500105_T_TTCC,GFR-associated,,lead not in reference
+19:36249521_G_A,GFR-associated,,no S8 signal in LD
+19:37683420_A_AT,GFR-associated,,no S8 signal within 500 kb
+19:39257977_A_T,GFR-associated,,no S8 signal in LD
+19:4037966_T_C,GFR-associated,,no S8 signal in LD
+19:40807220_T_TTTTA,GFR-associated,,lead not in reference
+19:4484915_G_A,GFR-associated,,lead not in reference
+19:45357939_A_G,GFR-associated,,no S8 signal in LD
+19:46183586_C_T,GFR-associated,,no S8 signal in LD
+19:49239053_T_C,GFR-associated,,lead not in reference
+19:53453777_C_T,GFR-associated,,lead not in reference
+19:7486642_C_T,GFR-associated,,no S8 signal in LD
+19:817522_C_T,GFR-associated,chr19_717522_917980|CS-1,LD r2 >= 0.8
+1:101023736_G_T,GFR-associated,,no S8 signal in LD
+1:10722066_C_T,GFR-associated,chr1_10553622_10956692|CS-8,LD r2 >= 0.8
+1:109979526_T_C,GFR-associated,,no S8 signal in LD
+1:112213640_T_C,GFR-associated,,no S8 signal within 500 kb
+1:115183183_G_A,GFR-associated,,no S8 signal in LD
+1:117018847_C_T,GFR-associated,chr1_116912399_117123609|CS-1,LD r2 >= 0.8
+1:118192796_C_T,GFR-associated,,no S8 signal within 500 kb
+1:145736308_G_A,GFR-associated,,no S8 signal within 500 kb
+1:150419903_T_C,GFR-associated,,no S8 signal in LD
+1:155533153_G_A,GFR-associated,,no S8 signal in LD
+1:15860147_A_C,GFR-associated,,no S8 signal in LD
+1:161163633_C_T,GFR-associated,,no S8 signal within 500 kb
+1:163714719_A_G,GFR-associated,,no S8 signal in LD
+1:16541962_T_C,GFR-associated,,no S8 signal in LD
+1:172340661_T_A,GFR-associated,,no S8 signal in LD
+1:174955075_C_T,GFR-associated,,no S8 signal within 500 kb
+1:179939174_G_A,GFR-associated,chr1_179919747_180119747|CS-1,LD r2 >= 0.8
+1:180905694_C_T,GFR-associated,chr1_180796912_181009549|CS-1,in credible set
+1:183001070_G_GA,GFR-associated,,lead not in reference
+1:1845784_C_T,GFR-associated,chr1_1586943_2439427|CS-7,LD r2 >= 0.8
+1:185202945_A_G,GFR-associated,,no S8 signal in LD
+1:186598610_C_A,GFR-associated,,no S8 signal in LD
+1:18806859_C_T,GFR-associated,chr1_18674693_18931120|CS-2,LD r2 >= 0.8
+1:201877151_G_T,GFR-associated,,no S8 signal in LD
+1:205023764_T_C,GFR-associated,,lead not in reference
+1:205537858_G_A,GFR-associated,,no S8 signal in LD
+1:207234454_C_CTA,GFR-associated,,lead not in reference
+1:2087094_A_AATG,GFR-associated,,lead not in reference
+1:210340969_G_A,GFR-associated,,no S8 signal within 500 kb
+1:211441882_C_T,GFR-associated,chr1_211275820_211743017|CS-1,LD r2 >= 0.8
+1:214744893_T_C,GFR-associated,chr1_214449501_214896532|CS-2,in credible set
+1:217397011_A_G,GFR-associated,,no S8 signal in LD
+1:21817126_G_GGT,GFR-associated,,lead not in reference
+1:220996287_G_T,GFR-associated,,no S8 signal in LD
+1:231530249_C_T,GFR-associated,,lead not in reference
+1:23585355_T_C,GFR-associated,chr1_23162176_23920104|CS-4,LD r2 >= 0.8
+1:243418182_C_T,GFR-associated,,no S8 signal in LD
+1:25251923_A_T,GFR-associated,,no S8 signal in LD
+1:27248283_C_G,GFR-associated,,no S8 signal in LD
+1:31857177_C_T,GFR-associated,,lead not in reference
+1:33889998_T_C,GFR-associated,,no S8 signal within 500 kb
+1:41840642_G_A,GFR-associated,,no S8 signal within 500 kb
+1:43725288_A_G,GFR-associated,,no S8 signal in LD
+1:46224780_G_C,GFR-associated,,no S8 signal in LD
+1:51188594_T_C,GFR-associated,,no S8 signal in LD
+1:53581670_A_G,GFR-associated,chr1_53479583_53682325|CS-1,in credible set
+1:56657604_G_A,GFR-associated,,no S8 signal in LD
+1:61712335_G_T,GFR-associated,chr1_61571738_61804363|CS-4,LD r2 >= 0.8
+1:67472372_TG_T,GFR-associated,,lead not in reference
+1:68012254_T_C,GFR-associated,chr1_67900580_68118808|CS-1,LD r2 >= 0.8
+1:7728493_C_A,GFR-associated,,no S8 signal within 500 kb
+1:78588360_G_A,GFR-associated,,no S8 signal in LD
+1:79025130_G_A,GFR-associated,,no S8 signal within 500 kb
+1:82939621_A_G,GFR-associated,,no S8 signal in LD
+1:8497307_T_A,GFR-associated,,no S8 signal in LD
+1:859685_G_A,GFR-associated,,no S8 signal in LD
+1:89255345_CATA_C,GFR-associated,,no S8 signal within 500 kb
+1:93881906_T_G,GFR-associated,,no S8 signal in LD
+1:94604714_C_G,GFR-associated,,no S8 signal in LD
+1:98447298_A_C,GFR-associated,,no S8 signal within 500 kb
+20:10555406_C_G,GFR-associated,,no S8 signal in LD
+20:1354410_C_T,GFR-associated,,no S8 signal in LD
+20:29553656_A_G,GFR-associated,,no S8 signal within 500 kb
+20:2975929_CT_C,GFR-associated,,lead not in reference
+20:33465289_A_C,GFR-associated,,no S8 signal in LD
+20:36842782_C_G,GFR-associated,,no S8 signal within 500 kb
+20:39621754_T_TC,GFR-associated,,lead not in reference
+20:43034016_G_A,GFR-associated,,no S8 signal in LD
+20:52744537_C_G,GFR-associated,,no S8 signal in LD
+20:56117891_C_T,GFR-associated,,no S8 signal in LD
+20:57469055_C_T,GFR-associated,,no S8 signal in LD
+20:60589313_A_G,GFR-associated,chr20_60443863_61150522|CS-4,in credible set
+20:60929814_A_G,GFR-associated,,no S8 signal in LD
+20:62363096_G_A,GFR-associated,chr20_62035146_63062869|CS-6,LD r2 >= 0.8
+20:808430_G_A,GFR-associated,,no S8 signal within 500 kb
+21:16237295_A_G,GFR-associated,,lead not in reference
+21:16597363_A_G,GFR-associated,,no S8 signal in LD
+21:35355410_T_G,GFR-associated,,no S8 signal in LD
+21:37828558_T_G,GFR-associated,chr21_37657821_38149761|CS-1,LD r2 >= 0.8
+21:38843460_A_G,GFR-associated,,no S8 signal within 500 kb
+21:46926549_G_A,GFR-associated,,no S8 signal in LD
+22:19074201_G_A,GFR-associated,chr22_18921819_19214540|CS-2,LD r2 >= 0.8
+22:21940189_T_G,GFR-associated,,lead not in reference
+22:24146560_C_T,GFR-associated,,no S8 signal in LD
+22:25483781_T_C,GFR-associated,,no S8 signal within 500 kb
+22:27978272_G_A,GFR-associated,,lead not in reference
+22:31900224_G_A,GFR-associated,,no S8 signal in LD
+22:36542194_A_C,GFR-associated,chr22_36417472_36863898|CS-9,LD r2 >= 0.8
+22:38386787_C_A,GFR-associated,,lead not in reference
+22:42312807_G_A,GFR-associated,,no S8 signal in LD
+22:46377008_T_G,GFR-associated,,no S8 signal in LD
+22:50832846_C_A,GFR-associated,,no S8 signal in LD
+2:101683406_CAAAAAA_C,GFR-associated,,lead not in reference
+2:10190955_A_G,GFR-associated,,no S8 signal in LD
+2:103036677_C_T,GFR-associated,chr2_102768980_103353128|CS-1,in credible set
+2:111823276_A_C,GFR-associated,,no S8 signal within 500 kb
+2:113971755_C_CA,GFR-associated,,lead not in reference
+2:11531135_C_G,GFR-associated,chr2_11218457_11632354|CS-1,LD r2 >= 0.8
+2:119140367_G_A,GFR-associated,,no S8 signal in LD
+2:120830815_A_G,GFR-associated,,no S8 signal in LD
+2:12093261_C_T,GFR-associated,,no S8 signal in LD
+2:121325980_T_C,GFR-associated,,no S8 signal in LD
+2:121993458_T_C,GFR-associated,chr2_121833011_122165155|CS-3,LD r2 >= 0.8
+2:12846488_G_A,GFR-associated,,no S8 signal within 500 kb
+2:135610154_A_G,GFR-associated,chr2_135241120_135820715|CS-3,LD r2 >= 0.8
+2:137114522_A_C,GFR-associated,,no S8 signal in LD
+2:137655519_C_T,GFR-associated,,lead not in reference
+2:145640202_GAAC_G,GFR-associated,,lead not in reference
+2:148620312_C_CA,GFR-associated,,lead not in reference
+2:152318031_G_A,GFR-associated,,no S8 signal in LD
+2:15766018_A_AT,GFR-associated,,lead not in reference
+2:159819869_T_G,GFR-associated,,no S8 signal in LD
+2:164561308_G_T,GFR-associated,chr2_164344356_164700989|CS-3,LD r2 >= 0.8
+2:165539661_T_C,GFR-associated,,no S8 signal within 500 kb
+2:16653829_A_T,GFR-associated,,no S8 signal in LD
+2:169399768_C_T,GFR-associated,,lead not in reference
+2:170073087_T_C,GFR-associated,,no S8 signal in LD
+2:175580_T_C,GFR-associated,,no S8 signal in LD
+2:177146275_T_C,GFR-associated,,no S8 signal in LD
+2:179691670_T_C,GFR-associated,,no S8 signal in LD
+2:183108485_T_C,GFR-associated,,no S8 signal in LD
+2:18681061_T_G,GFR-associated,,no S8 signal in LD
+2:188097710_C_A,GFR-associated,,no S8 signal in LD
+2:197055009_GT_G,GFR-associated,,no S8 signal within 500 kb
+2:198616891_A_G,GFR-associated,,no S8 signal within 500 kb
+2:20173255_A_C,GFR-associated,,no S8 signal in LD
+2:211583281_A_C,GFR-associated,,no S8 signal in LD
+2:212242745_G_C,GFR-associated,chr2_212098935_212404841|CS-1,in credible set
+2:213091581_T_TGA,GFR-associated,,lead not in reference
+2:214012225_C_T,GFR-associated,chr2_213415682_214645891|CS-1,in credible set
+2:217646838_T_C,GFR-associated,,no S8 signal in LD
+2:217971848_C_T,GFR-associated,,no S8 signal in LD
+2:219494638_T_C,GFR-associated,,no S8 signal in LD
+2:227287718_G_A,GFR-associated,chr2_226592507_227467446|CS-1,in credible set
+2:232074479_C_G,GFR-associated,chr2_231804874_232238371|CS-2,LD r2 >= 0.8
+2:233678786_C_T,GFR-associated,,no S8 signal in LD
+2:238968634_C_CAAAA,GFR-associated,,lead not in reference
+2:239873992_A_T,GFR-associated,,no S8 signal within 500 kb
+2:26004249_C_T,GFR-associated,chr2_25731267_26234497|CS-2,LD r2 >= 0.8
+2:27783801_T_C,GFR-associated,,no S8 signal in LD
+2:32703106_T_C,GFR-associated,,no S8 signal within 500 kb
+2:40687721_AT_A,GFR-associated,,lead not in reference
+2:43712785_G_T,GFR-associated,,no S8 signal in LD
+2:45891708_G_A,GFR-associated,,no S8 signal in LD
+2:46533376_T_C,GFR-associated,,no S8 signal in LD
+2:47039991_G_A,GFR-associated,,lead not in reference
+2:54783793_C_CTT,GFR-associated,,lead not in reference
+2:58965713_T_C,GFR-associated,,no S8 signal within 500 kb
+2:64935357_G_C,GFR-associated,,no S8 signal in LD
+2:65663158_C_A,GFR-associated,,no S8 signal in LD
+2:66677816_G_C,GFR-associated,,no S8 signal in LD
+2:71157827_T_C,GFR-associated,,no S8 signal in LD
+2:73831840_T_C,GFR-associated,chr2_73284632_74220961|CS-3,LD r2 >= 0.8
+2:96962859_A_G,GFR-associated,,lead not in reference
+2:99108277_A_G,GFR-associated,,no S8 signal within 500 kb
+3:105431215_G_A,GFR-associated,chr3_105284322_105687845|CS-1,LD r2 >= 0.8
+3:118806090_G_A,GFR-associated,,no S8 signal within 500 kb
+3:121644417_G_T,GFR-associated,chr3_121265929_122328974|CS-4,LD r2 >= 0.8
+3:124448385_C_A,GFR-associated,,lead not in reference
+3:125212835_T_C,GFR-associated,,no S8 signal in LD
+3:128094442_C_T,GFR-associated,,no S8 signal within 500 kb
+3:129701252_A_AT,GFR-associated,,no S8 signal within 500 kb
+3:132244406_G_A,GFR-associated,chr3_132081820_132607917|CS-3,LD r2 >= 0.8
+3:136213145_C_T,GFR-associated,,no S8 signal in LD
+3:141093285_T_C,GFR-associated,chr3_140963953_141427474|CS-2,in credible set
+3:141754558_A_G,GFR-associated,,no S8 signal in LD
+3:153847833_T_C,GFR-associated,chr3_153455140_154190022|CS-1,LD r2 >= 0.8
+3:169131116_C_T,GFR-associated,chr3_168754925_169279756|CS-3,LD r2 >= 0.8
+3:176868116_G_T,GFR-associated,,lead not in reference
+3:183369481_A_G,GFR-associated,,no S8 signal within 500 kb
+3:183944022_AAAAAAG_A,GFR-associated,,no S8 signal within 500 kb
+3:185344539_T_C,GFR-associated,,no S8 signal in LD
+3:186438648_G_A,GFR-associated,,no S8 signal in LD
+3:187655581_A_G,GFR-associated,chr3_187539162_187771949|CS-2,LD r2 >= 0.8
+3:189437062_C_T,GFR-associated,,no S8 signal within 500 kb
+3:193811162_T_C,GFR-associated,chr3_193684495_193942822|CS-1,LD r2 >= 0.8
+3:195628559_TGA_T,GFR-associated,,lead not in reference
+3:20148063_G_A,GFR-associated,,no S8 signal in LD
+3:25409443_C_T,GFR-associated,,no S8 signal in LD
+3:39196452_A_G,GFR-associated,,no S8 signal in LD
+3:44547124_A_T,GFR-associated,,no S8 signal within 500 kb
+3:50001152_A_G,GFR-associated,,no S8 signal in LD
+3:57995706_C_T,GFR-associated,,lead not in reference
+3:63919876_T_C,GFR-associated,,no S8 signal in LD
+3:69094894_C_T,GFR-associated,,no S8 signal in LD
+3:69868660_A_G,GFR-associated,chr3_69639213_70300450|CS-3,in credible set
+3:71662264_T_C,GFR-associated,,no S8 signal in LD
+3:88176189_C_T,GFR-associated,,no S8 signal within 500 kb
+3:88765126_G_A,GFR-associated,,no S8 signal within 500 kb
+4:1003507_CGCGCCG_C,GFR-associated,,lead not in reference
+4:10135377_ACTGTGG_A,GFR-associated,,lead not in reference
+4:103856128_T_C,GFR-associated,,no S8 signal in LD
+4:106099809_T_C,GFR-associated,chr4_105934478_106316459|CS-1,LD r2 >= 0.8
+4:109723426_A_G,GFR-associated,,no S8 signal in LD
+4:115442059_C_T,GFR-associated,,no S8 signal in LD
+4:120635908_A_G,GFR-associated,,no S8 signal within 500 kb
+4:124335586_A_C,GFR-associated,,no S8 signal within 500 kb
+4:128046856_T_G,GFR-associated,,no S8 signal in LD
+4:129536740_T_C,GFR-associated,chr4_129422518_129641819|CS-1,LD r2 >= 0.8
+4:135432691_T_C,GFR-associated,,no S8 signal within 500 kb
+4:140099824_G_A,GFR-associated,,no S8 signal within 500 kb
+4:144130118_C_T,GFR-associated,,no S8 signal in LD
+4:150129103_G_A,GFR-associated,,no S8 signal within 500 kb
+4:154420606_G_A,GFR-associated,,no S8 signal in LD
+4:157643582_T_C,GFR-associated,,no S8 signal within 500 kb
+4:18514364_T_C,GFR-associated,chr4_18413810_18613810|CS-1,LD r2 >= 0.8
+4:23728609_A_G,GFR-associated,,no S8 signal in LD
+4:26453384_T_C,GFR-associated,,lead not in reference
+4:30928254_C_G,GFR-associated,,no S8 signal within 500 kb
+4:38653770_CA_C,GFR-associated,,lead not in reference
+4:40420581_C_CA,GFR-associated,,lead not in reference
+4:41684580_C_T,GFR-associated,chr4_41537498_41807093|CS-1,LD r2 >= 0.8
+4:42372312_G_T,GFR-associated,,no S8 signal in LD
+4:49037111_G_A,GFR-associated,,no S8 signal in LD
+4:54278219_T_G,GFR-associated,chr4_53905645_54479445|CS-1,LD r2 >= 0.8
+4:55512066_T_C,GFR-associated,,no S8 signal within 500 kb
+4:5767567_G_C,GFR-associated,,no S8 signal in LD
+4:77351870_C_T,GFR-associated,,no S8 signal in LD
+4:81170475_CT_C,GFR-associated,,lead not in reference
+4:86846686_C_T,GFR-associated,,no S8 signal within 500 kb
+4:95563972_G_A,GFR-associated,,no S8 signal in LD
+4:96108829_C_T,GFR-associated,,no S8 signal within 500 kb
+5:107584779_A_G,GFR-associated,,no S8 signal in LD
+5:123973735_C_G,GFR-associated,,no S8 signal in LD
+5:126508930_A_AG,GFR-associated,,no S8 signal within 500 kb
+5:131279165_T_C,GFR-associated,,no S8 signal in LD
+5:133849987_G_T,GFR-associated,,no S8 signal within 500 kb
+5:138658909_T_TTGA,GFR-associated,,no S8 signal within 500 kb
+5:139518989_T_C,GFR-associated,,no S8 signal within 500 kb
+5:144559844_G_GT,GFR-associated,,no S8 signal within 500 kb
+5:147801610_C_CT,GFR-associated,,no S8 signal within 500 kb
+5:148539987_CTCTAG_C,GFR-associated,,lead not in reference
+5:169598672_G_A,GFR-associated,,no S8 signal within 500 kb
+5:171925586_G_A,GFR-associated,,no S8 signal within 500 kb
+5:176706414_G_A,GFR-associated,,no S8 signal in LD
+5:32150926_G_A,GFR-associated,chr5_32042949_32252662|CS-1,LD r2 >= 0.8
+5:34471541_C_T,GFR-associated,,no S8 signal in LD
+5:39866005_T_G,GFR-associated,,no S8 signal in LD
+5:44837010_A_T,GFR-associated,chr5_44542670_45045090|CS-1,LD r2 >= 0.8
+5:505066_G_A,GFR-associated,,no S8 signal in LD
+5:53300073_T_C,GFR-associated,,no S8 signal in LD
+5:57126161_T_C,GFR-associated,,no S8 signal within 500 kb
+5:65965511_A_G,GFR-associated,,no S8 signal within 500 kb
+5:68518347_G_T,GFR-associated,,no S8 signal in LD
+5:70181054_A_G,GFR-associated,,no S8 signal within 500 kb
+5:74989450_C_CA,GFR-associated,,no S8 signal within 500 kb
+5:78319710_C_G,GFR-associated,chr5_78173088_78522570|CS-2,LD r2 >= 0.8
+5:82810884_T_C,GFR-associated,chr5_82710884_82915170|CS-1,in credible set
+5:87682030_G_A,GFR-associated,,no S8 signal within 500 kb
+5:97907225_T_A,GFR-associated,chr5_97802431_98013833|CS-1,LD r2 >= 0.8
+6:100613551_T_C,GFR-associated,chr6_100500097_100729078|CS-1,in credible set
+6:100849326_T_C,GFR-associated,,no S8 signal in LD
+6:107169748_A_G,GFR-associated,,no S8 signal in LD
+6:108996748_T_G,GFR-associated,,no S8 signal in LD
+6:116345501_A_G,GFR-associated,chr6_116209649_116521127|CS-1,LD r2 >= 0.8
+6:121801471_C_G,GFR-associated,,no S8 signal in LD
+6:126224855_C_CT,GFR-associated,,lead not in reference
+6:130378833_T_C,GFR-associated,,no S8 signal in LD
+6:131182046_T_C,GFR-associated,,no S8 signal in LD
+6:133861716_G_T,GFR-associated,,no S8 signal in LD
+6:136047955_A_G,GFR-associated,,no S8 signal in LD
+6:143177517_G_GTACA,GFR-associated,,no S8 signal within 500 kb
+6:150921729_T_C,GFR-associated,,no S8 signal within 500 kb
+6:15490551_A_G,GFR-associated,,lead not in reference
+6:154936840_T_C,GFR-associated,,no S8 signal in LD
+6:166515057_A_G,GFR-associated,,no S8 signal within 500 kb
+6:169310801_T_A,GFR-associated,,no S8 signal within 500 kb
+6:18785967_A_G,GFR-associated,,no S8 signal within 500 kb
+6:20466916_CT_C,GFR-associated,,lead not in reference
+6:22102443_G_A,GFR-associated,,no S8 signal in LD
+6:24255598_GA_G,GFR-associated,,lead not in reference
+6:2485653_C_T,GFR-associated,,no S8 signal in LD
+6:31297187_A_G,GFR-associated,,no S8 signal within 500 kb
+6:37100710_A_G,GFR-associated,chr6_37003939_37205893|CS-2,LD r2 >= 0.8
+6:39156410_G_A,GFR-associated,,no S8 signal in LD
+6:41678727_T_C,GFR-associated,,no S8 signal in LD
+6:43356743_A_C,GFR-associated,,no S8 signal in LD
+6:44036825_C_T,GFR-associated,,no S8 signal in LD
+6:44744183_T_TGATGGATG,GFR-associated,,lead not in reference
+6:51456814_T_C,GFR-associated,,no S8 signal in LD
+6:55596318_G_C,GFR-associated,chr6_55222426_55766549|CS-2,LD r2 >= 0.8
+6:7082633_T_C,GFR-associated,chr6_6582662_7429417|CS-4,LD r2 >= 0.8
+6:82786007_TAC_T,GFR-associated,,no S8 signal within 500 kb
+6:88468327_G_C,GFR-associated,,no S8 signal within 500 kb
+6:90114802_G_C,GFR-associated,chr6_89919666_90383467|CS-1,LD r2 >= 0.8
+6:9562149_C_T,GFR-associated,,no S8 signal within 500 kb
+6:98582900_G_A,GFR-associated,,no S8 signal within 500 kb
+6:99865652_A_G,GFR-associated,,no S8 signal within 500 kb
+7:101824189_TTATTTTATTG_T,GFR-associated,,lead not in reference
+7:105346117_G_A,GFR-associated,,no S8 signal within 500 kb
+7:105923355_C_A,GFR-associated,,lead not in reference
+7:107130310_T_C,GFR-associated,,no S8 signal within 500 kb
+7:113443065_C_T,GFR-associated,chr7_113249793_113802000|CS-1,LD r2 >= 0.8
+7:127514193_G_A,GFR-associated,chr7_127119417_127888878|CS-1,LD r2 >= 0.8
+7:1286192_G_C,GFR-associated,chr7_900625_1446620|CS-1,in credible set
+7:129459741_C_A,GFR-associated,,no S8 signal in LD
+7:138289154_T_G,GFR-associated,,no S8 signal within 500 kb
+7:140127252_CT_C,GFR-associated,,no S8 signal within 500 kb
+7:140665938_TA_T,GFR-associated,,no S8 signal within 500 kb
+7:150539695_A_C,GFR-associated,,lead not in reference
+7:151415536_C_T,GFR-associated,chr7_151207311_151616742|CS-1,LD r2 >= 0.8
+7:151415536_C_T,GFR-associated,chr7_151207311_151616742|CS-3,LD r2 >= 0.8
+7:155635763_C_T,GFR-associated,,no S8 signal in LD
+7:156263365_C_T,GFR-associated,,no S8 signal in LD
+7:17307374_G_A,GFR-associated,,no S8 signal in LD
+7:25762768_A_G,GFR-associated,chr7_25581758_25902471|CS-1,LD r2 >= 0.8
+7:26579729_T_A,GFR-associated,chr7_26454031_26725527|CS-2,LD r2 >= 0.8
+7:2670659_T_A,GFR-associated,,no S8 signal in LD
+7:27236344_A_G,GFR-associated,chr7_27055353_27442630|CS-2,LD r2 >= 0.8
+7:33048550_A_G,GFR-associated,chr7_32704188_33259780|CS-4,LD r2 >= 0.8
+7:41055230_G_A,GFR-associated,,no S8 signal in LD
+7:41763238_G_GT,GFR-associated,,lead not in reference
+7:45265197_G_A,GFR-associated,,no S8 signal in LD
+7:46753085_C_T,GFR-associated,chr7_46602781_47074454|CS-1,LD r2 >= 0.8
+7:50740960_C_T,GFR-associated,chr7_50632659_50980579|CS-3,LD r2 >= 0.8
+7:632715_C_T,GFR-associated,,no S8 signal in LD
+7:65665056_A_G,GFR-associated,,no S8 signal in LD
+7:70231070_C_T,GFR-associated,chr7_70099259_70334619|CS-1,LD r2 >= 0.8
+7:72129667_C_T,GFR-associated,,no S8 signal within 500 kb
+7:73003027_A_G,GFR-associated,,no S8 signal within 500 kb
+7:73478524_A_G,GFR-associated,,no S8 signal within 500 kb
+7:74332070_G_A,GFR-associated,,no S8 signal within 500 kb
+7:75747241_T_C,GFR-associated,,no S8 signal in LD
+7:77350833_C_T,GFR-associated,,no S8 signal in LD
+7:97914305_A_G,GFR-associated,,no S8 signal within 500 kb
+8:102679909_G_A,GFR-associated,chr8_102529188_102845927|CS-2,LD r2 >= 0.8
+8:121087632_G_A,GFR-associated,chr8_120597077_121103684|CS-2,in credible set
+8:126485283_G_A,GFR-associated,,no S8 signal in LD
+8:129264060_A_C,GFR-associated,,no S8 signal within 500 kb
+8:134331059_G_C,GFR-associated,chr8_134227961_134435352|CS-1,LD r2 >= 0.8
+8:13444780_T_C,GFR-associated,,no S8 signal within 500 kb
+8:135623798_T_A,GFR-associated,,no S8 signal in LD
+8:144519237_C_T,GFR-associated,,lead not in reference
+8:145504343_T_C,GFR-associated,chr8_144692475_145666163|CS-4,in credible set
+8:22451116_A_T,GFR-associated,,no S8 signal in LD
+8:23717215_G_A,GFR-associated,,no S8 signal in LD
+8:25935564_C_G,GFR-associated,chr8_25807898_26035636|CS-2,in credible set
+8:30271084_C_T,GFR-associated,,no S8 signal in LD
+8:32358743_T_C,GFR-associated,,no S8 signal in LD
+8:38101724_T_C,GFR-associated,,no S8 signal within 500 kb
+8:38823999_T_C,GFR-associated,,no S8 signal within 500 kb
+8:59972309_G_C,GFR-associated,,no S8 signal within 500 kb
+8:66754188_G_A,GFR-associated,,no S8 signal in LD
+8:70983934_C_T,GFR-associated,,no S8 signal within 500 kb
+8:72657719_G_A,GFR-associated,chr8_72548090_72775668|CS-1,LD r2 >= 0.8
+8:76491473_G_A,GFR-associated,chr8_76245925_76662070|CS-2,LD r2 >= 0.8
+8:81380660_G_T,GFR-associated,,no S8 signal within 500 kb
+8:82661120_C_G,GFR-associated,,no S8 signal within 500 kb
+8:87412335_A_G,GFR-associated,chr8_87072580_87662786|CS-1,LD r2 >= 0.8
+8:9744650_A_G,GFR-associated,,no S8 signal within 500 kb
+9:106856692_T_C,GFR-associated,chr9_106756793_106956793|CS-1,in credible set
+9:110273582_A_G,GFR-associated,,no S8 signal within 500 kb
+9:112212733_T_C,GFR-associated,chr9_112096776_112341370|CS-2,LD r2 >= 0.8
+9:112817182_T_A,GFR-associated,,no S8 signal within 500 kb
+9:113388148_A_G,GFR-associated,,no S8 signal within 500 kb
+9:119327784_G_T,GFR-associated,chr9_119038292_119605796|CS-3,LD r2 >= 0.8
+9:123682806_G_A,GFR-associated,,no S8 signal within 500 kb
+9:130702539_G_A,GFR-associated,chr9_130522946_130848900|CS-2,LD r2 >= 0.8
+9:132629029_T_C,GFR-associated,chr9_132505091_132729386|CS-4,in credible set
+9:133429006_G_A,GFR-associated,,no S8 signal within 500 kb
+9:139100413_C_T,GFR-associated,,no S8 signal in LD
+9:140101685_G_A,GFR-associated,,no S8 signal in LD
+9:14108391_T_C,GFR-associated,,no S8 signal within 500 kb
+9:16421862_C_CCT,GFR-associated,,lead not in reference
+9:32520819_G_A,GFR-associated,,no S8 signal within 500 kb
+9:33133805_CA_C,GFR-associated,,lead not in reference
+9:4287158_G_C,GFR-associated,,lead not in reference
+9:6334994_AATATTCATTTAAATACAT_A,GFR-associated,,lead not in reference
+9:71432961_A_G,GFR-associated,,no S8 signal in LD
+9:92172733_C_T,GFR-associated,,no S8 signal in LD
+9:95224847_C_T,GFR-associated,,lead not in reference
+9:95886775_T_C,GFR-associated,,no S8 signal in LD

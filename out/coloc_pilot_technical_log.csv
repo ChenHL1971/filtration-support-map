@@ -1,0 +1,13 @@
+locus,n_signals_S8,status,note,variants_liu_in_region,variants_used,ld_symmetric,ld_min_eigen,ld_mismatch_s_liu,ld_mismatch_s_cys,runtime_sec,max_mem_mb,susie_converged_liu,susie_converged_cys,credible_sets_liu,credible_sets_cys,warnings,coloc_pairs_tested
+chr8_95536000_96088358,3,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,2579,1653,TRUE,-4.69e-13,0.845,0.637,307.5,1130,,,,,,
+chr14_93283739_93740448,4,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,2271,1481,TRUE,-1.46e-13,0.825,0.64,230.3,1122,,,,,,
+chr12_57458505_58522642,3,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,3507,1763,TRUE,-3.55e-13,0.799,0.813,313.6,1124,,,,,,
+chr1_170549277_170889861,2,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,1470,885,TRUE,-1.49e-13,0.878,0.113,91.5,1147,,,,,,
+chr11_5432222_5722790,3,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,2261,1443,TRUE,-2.19e-13,0.85,0.26,213.1,1123,,,,,,
+chr12_94619017_94819017,3,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),836,489,TRUE,-2.58e-14,0.832,0.159,3.1,1146,TRUE,TRUE,3,0,"minimum p value is: 0.009285
+If this is what you expected, this is not a problem.
+If this is not as small as you expecte",0
+chr9_33564300_34462220,2,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,4098,2162,TRUE,-9.03e-13,0.919,0.407,452.2,1310,,,,,,
+chr6_7594730_7825760,4,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,1164,690,TRUE,-7.87e-14,0.716,0.287,60.1,1369,,,,,,
+chr12_6734213_6941813,1,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,857,475,TRUE,-7.66e-14,0.86,0.657,35.7,1424,,,,,,
+chr6_130211831_130559410,1,error,susie_rss() did not converge in 1000 iterations. Try running with run_until_convergence=TRUE,1641,1012,TRUE,-1.79e-13,0.803,0.468,113,1342,,,,,,

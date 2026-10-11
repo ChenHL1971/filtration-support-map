@@ -1,0 +1,36 @@
+{
+ "MGI renal function (mouse feature removed)": {
+  "positives": 192,
+  "AUPRC_A_equal_weights": 0.0423,
+  "AUPRC_C_heldout": 0.044,
+  "diff_C_minus_A": 0.0017,
+  "diff_CI95": [
+   -0.0027,
+   0.0044
+  ],
+  "AUPRC_C_lambda1": 0.0411,
+  "L1_without_S": 0.1177,
+  "L1_with_S": 0.1112,
+  "L1_diff_CI95": [
+   -0.0142,
+   -0.0003
+  ]
+ },
+ "primary, mouse feature also removed (exploratory)": {
+  "positives": 154,
+  "AUPRC_A_equal_weights": 0.0417,
+  "AUPRC_C_heldout": 0.0418,
+  "diff_C_minus_A": 0.0001,
+  "diff_CI95": [
+   -0.005,
+   0.0056
+  ],
+  "AUPRC_C_lambda1": 0.0404,
+  "L1_without_S": 0.0781,
+  "L1_with_S": 0.0768,
+  "L1_diff_CI95": [
+   -0.0035,
+   0.0011
+  ]
+ }
+}

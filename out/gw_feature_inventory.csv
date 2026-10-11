@@ -1,0 +1,33 @@
+feature,group,values,missing_pct,pct_one
+eGFRcys,variant,"0,1",0.0,72.94
+BUN,variant,"0,1",0.0,40.16
+TSS1Kb,variant,"0,1",0.0,0.56
+CredibleSet,variant,"0,1",0.0,8.67
+snATACPeak,variant,"0,1",0.0,32.71
+bASA,variant,"0,1",0.0,29.31
+snASA,variant,"0,1",0.0,1.41
+HMMReg,variant,"0,1",0.0,20.92
+Gene CDS,gene,"0,1",0.0,30.84
+Gene CDS pLoF,gene,"0,1",0.0,3.12
+Gene CDS Missense,gene,"0,1",0.0,21.35
+Gene CDS eGFRcys,gene,"0,1",0.0,22.76
+Gene CDS BUN,gene,"0,1",0.0,14.13
+Gene CDS CredibleSet,gene,"0,1",0.0,3.79
+Gene ExWAS,gene,"0,1",0.0,1.82
+Gene Monogenic,gene,"0,1",0.0,8.89
+Gene MousePhynotype,gene,"0,1",0.0,5.97
+Gene PheWAS,gene,"0,1",0.0,1.52
+Gene MAGMA,gene,"0,1",0.0,62.02
+Gene DEPICT,gene,"0,1",0.0,24.78
+ASE of Tubule,target,"0,1",0.0,11.28
+ASE of Glomerlus,target,"0,1",0.0,10.39
+eQTL,target,"0,1",0.0,15.8
+Coloc with tubule ASE,target,"0,1",0.0,3.66
+Coloc with glomerlus ASE,target,"0,1",0.0,3.19
+Coloc with kidney eQTL,target,"0,1",0.0,5.07
+Open4Gene link,target,"0,1",0.0,2.45
+Same Top Cell Type,target,"0,1",0.0,9.14
+meQTL,target,"0,1",0.0,65.67
+Coaccess,target,"0,1",0.0,10.03
+ABC,target,"0,1",0.0,13.13
+cS2G,target,"0,1",0.0,9.58

@@ -1,0 +1,5 @@
+R version 4.3.3 (2024-02-29)
+susieR 0.12.35
+coloc 6.0.3
+data.table 1.14.10
+seed 20261008

@@ -1,0 +1,174 @@
+{
+ "class_counts_before_pruning": {
+  "low": 562,
+  "filtration": 173
+ },
+ "missing_eGFRcrea_effect": 0,
+ "class_counts_after_pruning": {
+  "low": 317,
+  "filtration": 123
+ },
+ "N14_DIALYSIS": {
+  "n_filtration": 119,
+  "n_low": 308,
+  "prop_hit_filtration": 0.0336,
+  "prop_hit_low": 0.0325,
+  "difference": 0.0011,
+  "perm_p_one_sided": 0.50445,
+  "mean_logOR_filtration": 0.0073,
+  "mean_logOR_filtration_CI95": [
+   -0.0038,
+   0.0183
+  ],
+  "slope_logOR_per_eGFRcrea_filtration": [
+   0.294,
+   0.235
+  ],
+  "mean_logOR_low": 0.0015,
+  "mean_logOR_low_CI95": [
+   -0.0058,
+   0.0088
+  ],
+  "slope_logOR_per_eGFRcrea_low": [
+   0.192,
+   0.237
+  ],
+  "adjusted_logit_OR_filtration": 0.784,
+  "adjusted_logit_CI95": [
+   0.198,
+   3.106
+  ],
+  "adjusted_logit_p": 0.7288
+ },
+ "Z21_KIDNEY_TRANSPLANT_STATUS": {
+  "n_filtration": 119,
+  "n_low": 308,
+  "prop_hit_filtration": 0.0336,
+  "prop_hit_low": 0.026,
+  "difference": 0.0076,
+  "perm_p_one_sided": 0.47965,
+  "mean_logOR_filtration": 0.0102,
+  "mean_logOR_filtration_CI95": [
+   0.0014,
+   0.019
+  ],
+  "slope_logOR_per_eGFRcrea_filtration": [
+   0.41,
+   0.205
+  ],
+  "mean_logOR_low": 0.0003,
+  "mean_logOR_low_CI95": [
+   -0.0059,
+   0.0064
+  ],
+  "slope_logOR_per_eGFRcrea_low": [
+   0.153,
+   0.207
+  ],
+  "adjusted_logit_OR_filtration": 0.753,
+  "adjusted_logit_CI95": [
+   0.184,
+   3.085
+  ],
+  "adjusted_logit_p": 0.6932,
+  "BH_q": 0.47965
+ },
+ "N14_CHRONKIDNEYDIS": {
+  "n_filtration": 119,
+  "n_low": 308,
+  "prop_hit_filtration": 0.2185,
+  "prop_hit_low": 0.0974,
+  "difference": 0.1211,
+  "perm_p_one_sided": 0.07209,
+  "mean_logOR_filtration": 0.0173,
+  "mean_logOR_filtration_CI95": [
+   0.0115,
+   0.023
+  ],
+  "slope_logOR_per_eGFRcrea_filtration": [
+   1.144,
+   0.078
+  ],
+  "mean_logOR_low": 0.0074,
+  "mean_logOR_low_CI95": [
+   0.0047,
+   0.01
+  ],
+  "slope_logOR_per_eGFRcrea_low": [
+   0.728,
+   0.078
+  ],
+  "adjusted_logit_OR_filtration": 1.715,
+  "adjusted_logit_CI95": [
+   0.908,
+   3.241
+  ],
+  "adjusted_logit_p": 0.0965,
+  "BH_q": 0.13198
+ },
+ "N14_ACUTERENFAIL": {
+  "n_filtration": 119,
+  "n_low": 308,
+  "prop_hit_filtration": 0.1008,
+  "prop_hit_low": 0.0357,
+  "difference": 0.0651,
+  "perm_p_one_sided": 0.08799,
+  "mean_logOR_filtration": 0.0073,
+  "mean_logOR_filtration_CI95": [
+   0.0027,
+   0.0118
+  ],
+  "slope_logOR_per_eGFRcrea_filtration": [
+   0.363,
+   0.094
+  ],
+  "mean_logOR_low": 0.0035,
+  "mean_logOR_low_CI95": [
+   0.0006,
+   0.0063
+  ],
+  "slope_logOR_per_eGFRcrea_low": [
+   0.214,
+   0.094
+  ],
+  "adjusted_logit_OR_filtration": 2.045,
+  "adjusted_logit_CI95": [
+   0.794,
+   5.267
+  ],
+  "adjusted_logit_p": 0.1381,
+  "BH_q": 0.13198
+ },
+ "H7_VITROPACIT": {
+  "n_filtration": 119,
+  "n_low": 308,
+  "prop_hit_filtration": 0.0252,
+  "prop_hit_low": 0.0292,
+  "difference": -0.004,
+  "perm_p_one_sided": 0.87781,
+  "mean_logOR_filtration": 0.0004,
+  "mean_logOR_filtration_CI95": [
+   -0.0102,
+   0.011
+  ],
+  "slope_logOR_per_eGFRcrea_filtration": [
+   0.117,
+   0.236
+  ],
+  "mean_logOR_low": -0.0017,
+  "mean_logOR_low_CI95": [
+   -0.0088,
+   0.0054
+  ],
+  "slope_logOR_per_eGFRcrea_low": [
+   -0.149,
+   0.238
+  ],
+  "adjusted_logit_OR_filtration": 0.793,
+  "adjusted_logit_CI95": [
+   0.187,
+   3.369
+  ],
+  "adjusted_logit_p": 0.7534
+ }
+}

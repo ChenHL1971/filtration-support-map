@@ -1,0 +1,27 @@
+locus,n_signals_S8,status,note,variants_liu_in_region,variants_used,ld_symmetric,ld_min_eigen,ld_mismatch_s_liu,ld_mismatch_s_cys,susie_converged_liu,susie_converged_cys,credible_sets_liu,credible_sets_cys,warnings,coloc_pairs_tested,runtime_sec,max_mem_mb
+chr8_95536000_96088358,3,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),2579,1653,TRUE,-4.69e-13,0.0255,0.00492,TRUE,TRUE,1,0,"minimum p value is: 2.057e-05
+If this is what you expected, this is not a problem.
+If this is not as small as you expect",0,34,1131
+chr14_93283739_93740448,4,ok,"",2271,1481,TRUE,-1.46e-13,0.0379,0.00715,TRUE,TRUE,3,1,"",3,22.4,1119
+chr12_57458505_58522642,3,ok,"",3507,1763,TRUE,-3.55e-13,0.0484,0.0164,TRUE,TRUE,7,1,"",7,37.6,1124
+chr1_170549277_170889861,2,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),1470,885,TRUE,-1.49e-13,0.0248,0.00381,TRUE,TRUE,1,0,"minimum p value is: 0.03116
+If this is what you expected, this is not a problem.
+If this is not as small as you expected",0,6.4,1110
+chr11_5432222_5722790,3,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),2261,1443,TRUE,-2.19e-13,0.0389,0.00654,TRUE,TRUE,1,0,"minimum p value is: 0.004502
+If this is what you expected, this is not a problem.
+If this is not as small as you expecte",0,18.1,1119
+chr12_94619017_94819017,3,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),836,489,TRUE,-2.58e-14,0.0159,0.00741,TRUE,TRUE,1,0,"minimum p value is: 0.009285
+If this is what you expected, this is not a problem.
+If this is not as small as you expecte",0,2.2,1115
+chr9_33564300_34462220,2,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),4098,2162,TRUE,-9.03e-13,0.0455,0.00835,TRUE,TRUE,3,0,"minimum p value is: 0.005883
+If this is what you expected, this is not a problem.
+If this is not as small as you expecte",0,61.3,1311
+chr6_7594730_7825760,4,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),1164,690,TRUE,-7.87e-14,0.0264,0.00419,TRUE,TRUE,3,0,"minimum p value is: 0.0007564
+If this is what you expected, this is not a problem.
+If this is not as small as you expect",0,3.7,1300
+chr12_6734213_6941813,1,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),857,475,TRUE,-7.66e-14,0.0362,0.00994,TRUE,TRUE,1,0,"minimum p value is: 4.068e-06
+If this is what you expected, this is not a problem.
+If this is not as small as you expect",0,2.1,1218
+chr6_130211831_130559410,1,ok,no credible set in at least one trait; coloc.susie not run (fallback rule to be applied in Aim 1),1641,1012,TRUE,-1.79e-13,0.04,0.00546,TRUE,TRUE,1,0,"minimum p value is: 0.0004496
+If this is what you expected, this is not a problem.
+If this is not as small as you expect",0,7.2,1298

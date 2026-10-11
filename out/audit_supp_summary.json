@@ -1,0 +1,137 @@
+{
+  "s23_missing_feature_columns": [],
+  "score_reconstruction_match_fraction": {
+    "variant": 1.0,
+    "gene": 1.0,
+    "target": 1.0,
+    "total": 1.0
+  },
+  "s23_rows": 38255,
+  "s23_unique_variants": 24437,
+  "s23_unique_genes": 1060,
+  "s23_unique_loci": 517,
+  "s23_min_prioritization_score": 10.0,
+  "s23_genes_per_variant": {
+    "count": 24437.0,
+    "mean": 1.57,
+    "std": 1.14,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 1.0,
+    "75%": 2.0,
+    "max": 15.0
+  },
+  "s23_pct_variants_linked_to_>=2_genes": 30.9,
+  "s23_target_score_distribution": {
+    "1": 9247,
+    "2": 6934,
+    "3": 5957,
+    "4": 5544,
+    "5": 3931,
+    "6": 2457,
+    "7": 2840,
+    "8": 971,
+    "9": 250,
+    "10": 90,
+    "11": 26,
+    "12": 8
+  },
+  "s4_loci": 1026,
+  "credible_sets": {
+    "multi": {
+      "variants": 10102,
+      "merged_loci": 742,
+      "signals": 2051,
+      "signals_per_locus": {
+        "1": 163,
+        "2": 238,
+        "3": 169,
+        "4": 84,
+        "5": 32,
+        "6": 25,
+        "7": 9,
+        "8": 9,
+        "9": 6,
+        "10": 7
+      },
+      "loci_with_>=2_signals": 579,
+      "variants_per_signal_median": 1.0,
+      "single_variant_signals": 1032,
+      "cs_labels_sample": [
+        "CS-1",
+        "CS-10",
+        "CS-2",
+        "CS-3",
+        "CS-4",
+        "CS-5",
+        "CS-6",
+        "CS-7"
+      ]
+    },
+    "eur": {
+      "variants": 8901,
+      "merged_loci": 678,
+      "signals": 1818,
+      "signals_per_locus": {
+        "1": 183,
+        "2": 205,
+        "3": 124,
+        "4": 85,
+        "5": 33,
+        "6": 22,
+        "7": 9,
+        "8": 4,
+        "9": 9,
+        "10": 4
+      },
+      "loci_with_>=2_signals": 495,
+      "variants_per_signal_median": 2.0,
+      "single_variant_signals": 830,
+      "cs_labels_sample": [
+        "CS-1",
+        "CS-10",
+        "CS-2",
+        "CS-3",
+        "CS-4",
+        "CS-5",
+        "CS-6",
+        "CS-7"
+      ]
+    }
+  },
+  "crosswalk_s4_to_multi_cs": {
+    "matched_in_cs": 591,
+    "near_cs_needs_LD_check": 429,
+    "no_credible_set_within_500kb": 6
+  },
+  "crosswalk_s4_to_eur_cs": {
+    "near_cs_needs_LD_check": 537,
+    "matched_in_cs": 399,
+    "no_credible_set_within_500kb": 90
+  },
+  "s23_pct_rows_with_multi_cs_signal": 6.6,
+  "s23_pct_rows_flagged_CredibleSet": 12.3,
+  "signals_with_>=1_gene_link_in_S23": 469,
+  "pct_multi_signals_with_link_in_S23": 22.9,
+  "within_locus_eligible_loci_lower_bound_S23": 10,
+  "within_locus_eligible_loci_relaxed_(>=2 linked signals, >=2 genes)": 75,
+  "s22_nephropathy_genes_used_for_cutoff": [
+    "CASP9",
+    "CHMP1A",
+    "CUBN",
+    "DAB2",
+    "DACH1",
+    "DPEP1",
+    "GATM",
+    "LRP2",
+    "MANBA",
+    "PKD1",
+    "PKD2",
+    "PKHD1",
+    "SLC34A1",
+    "SLC47A1",
+    "SLC6A19",
+    "SLC7A9",
+    "UMOD"
+  ]
+}
