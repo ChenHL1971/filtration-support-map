@@ -20,7 +20,7 @@ authors:
     given-names: Hsin-Hui
     email: hhwang@vghtpe.gov.tw
     orcid: "https://orcid.org/0000-0003-4476-841X"   # CFF format requires an uppercase X
-doi: 10.5281/zenodo.23294824
+doi: 10.5281/zenodo.23296596
 repository-code: "https://github.com/ChenHL1971/filtration-support-map"
 version: 1.1.1
 date-released: 2026-10-11

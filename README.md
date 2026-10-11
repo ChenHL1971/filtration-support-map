@@ -5,9 +5,9 @@ Code and derived data for the manuscript
 > **A Filtration-Support Map of Kidney Function Genetic Signals: Consistency and Incremental Value for Gene Prioritization.**
 > Hui-Lan Chen, Mei-Jy Jeng, Yi-Hsuan Tang, Chien-Hung Lin, Chao-Ting Teng, Hsin-Hui Wang. Manuscript prepared for submission to *iScience*.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23294824.svg)](https://doi.org/10.5281/zenodo.23294824)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23296596.svg)](https://doi.org/10.5281/zenodo.23296596)
 
-Archived versions on Zenodo: version 1.1.0, https://doi.org/10.5281/zenodo.23294824 (version 1.1.1 adds the post hoc analyses of review rounds 5–6)
+Archived on Zenodo: version 1.1.1 (cited in the manuscript), https://doi.org/10.5281/zenodo.23296596; version 1.1.0, https://doi.org/10.5281/zenodo.23294824; all versions, https://doi.org/10.5281/zenodo.23294823. Version 1.1.1 adds the post hoc analyses of review rounds 5–6.
 
 The study re-analyzes the Kidney Disease Genetic Scorecard of Liu et al. (Science 2025). For each of 2,051 fine-mapped
 eGFRcrea signals it estimates **filtration support (f_s)**, defined as directionally concordant colocalization between
