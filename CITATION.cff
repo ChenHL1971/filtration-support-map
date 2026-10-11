@@ -20,7 +20,8 @@ authors:
     given-names: Hsin-Hui
     email: hhwang@vghtpe.gov.tw
     orcid: "https://orcid.org/0000-0003-4476-841X"   # CFF format requires an uppercase X
-# Before release: add doi: <Zenodo DOI> and repository-code: <GitHub URL>.
+doi: 10.5281/zenodo.23294824
+repository-code: "https://github.com/ChenHL1971/filtration-support-map"
 version: 1.1.0
-date-released: 2026-10-11   # update to the actual GitHub release date
+date-released: 2026-10-11
 license: MIT

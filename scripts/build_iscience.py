@@ -43,6 +43,9 @@ title = text_of(root[0])
 
 import os
 SUBMISSION = os.environ.get("SUBMISSION") == "1"
+CODE_DOI = "10.5281/zenodo.23294824"
+GITHUB = "https://github.com/ChenHL1971/filtration-support-map"
+CODE_REF = "Chen HL, Jeng MJ, Tang YH, Lin CH, Teng CT, Wang HH. Filtration-support map of kidney function genetic signals: code and data, version 1.1.0. Zenodo. 2026. doi:" + CODE_DOI
 HIGHLIGHTS = ["A filtration-support map scores 1,681 of 2,051 fine-mapped eGFRcrea signals",
               "Scores separate creatinine-specific from GFR-associated kidney function loci",
               "Filtration support yields no meaningful gain in the tested gene-ranking framework",
@@ -174,9 +177,9 @@ H2("Materials availability")
 P("This study did not generate new unique reagents.", indent=False)
 H2("Data and code availability")
 for t in ["This paper analyzes existing, publicly available data, accessible at the sources listed in the key resources table. The signal-level filtration-support map generated in this study is provided as Data S1.",
-          "All original code has been deposited at Zenodo ([DOI to be added]; GitHub mirror [URL to be added]) and is publicly available as of the date of publication. The repository contains the analysis scripts unchanged from the versions that produced the reported results, with prespecified and post hoc analyses in separate scripts, the analysis parameters, the deviation log, intermediate colocalization results, and Data S1 with its data dictionary.",
+          "All original code has been deposited at Zenodo (https://doi.org/" + CODE_DOI + ") [23] and GitHub (" + GITHUB + ") and is publicly available as of the date of publication. The repository contains the analysis scripts unchanged from the versions that produced the reported results, with prespecified and post hoc analyses in separate scripts, the analysis parameters, the deviation log, intermediate colocalization results, and Data S1 with its data dictionary.",
           "Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request."]:
-    d.add_paragraph(t, style="List Bullet")
+    add_rich(d.add_paragraph(style="List Bullet"), t)
 H1("Limitations of the study")
 for _, el, _ in lim:
     p = P_el(el); p.runs[0].text = "This study has several limitations. " + p.runs[0].text if p.runs else None
@@ -214,7 +217,7 @@ KRT = [["REAGENT or RESOURCE", "SOURCE", "IDENTIFIER"],
  ["susieR 0.12.35", "Wang et al. [11]; Zou et al. [12]", "https://github.com/stephenslab/susieR"],
  ["Python 3.13 (pandas 3.0, scikit-learn 1.9, statsmodels 0.15, SciPy 1.18, matplotlib 3.11)", "Python Software Foundation", "https://www.python.org"],
  ["XGBoost 3.4", "Chen and Guestrin [19]", "https://xgboost.ai"],
- ["Analysis code", "This paper", "[GitHub/Zenodo DOI to be added]"]]
+ ["Analysis code and filtration-support map (version 1.1.0)", "This paper [23]", "Zenodo: https://doi.org/" + CODE_DOI + "; GitHub: " + GITHUB]]
 SIMPLE_TABLE(KRT)
 H2("Experimental model and study participant details")
 P("This study used only publicly available summary-level data from previously published genome-wide association studies and the FinnGen release 13 public results; no individual-level data were accessed and no new participants were recruited. Ethics approval and informed consent were obtained by the original studies. All analyzed GWAS were of European ancestry; sex- and age-specific analyses were not possible with the summary data used.")
@@ -226,7 +229,18 @@ P("Colocalization posterior probabilities were estimated with coloc-SuSiE, coloc
 H1("Supplemental information")
 P("Document S1. Tables S1 and S2", indent=False)
 P("Data S1. Signal-level filtration-support map for 2,051 fine-mapped eGFRcrea signals, with field definitions and recommended use, related to Figure 2", indent=False)
-d.add_page_break(); H1("References"); emit(S["References"])
+d.add_page_break(); H1("References")
+REFS = []
+for kind, el, h3 in S["References"]:
+    if kind == "list":
+        for li in el.findall("listItem"):
+            for pe in li.findall("paragraph"): REFS.append("".join((t.text or "") for t in pe.iter("text")))
+    elif kind == "paragraph" and text_of(el).strip(): REFS.append(text_of(el))
+REFS.append(CODE_REF)
+for n, rtxt in enumerate(REFS, 1):
+    p = d.add_paragraph(); p.paragraph_format.left_indent = Inches(0.35); p.paragraph_format.first_line_indent = Inches(-0.35)
+    p.add_run(f"{n}. "); add_rich(p, fix(rtxt))
+print("references:", len(REFS))
 SUPP_REPL = [("Table S1. Deviations from the prespecified analysis plan", "Table S1. Deviations from the prespecified analysis plan, related to STAR Methods"),
              ("Table S2. Covariate balance and propensity-score strata for the FinnGen analysis (dialysis set)", "Table S2. Covariate balance and propensity-score strata for the FinnGen analysis (dialysis set), related to Figure 5")]
 if SUBMISSION:
