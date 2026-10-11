@@ -1,0 +1,130 @@
+{
+  "n": [
+    {
+      "grp": "fallback",
+      "N": 871
+    },
+    {
+      "grp": "direct",
+      "N": 810
+    }
+  ],
+  "cs_size": [
+    {
+      "grp": "fallback",
+      "median": 2,
+      "q1": 1,
+      "q3": 3
+    },
+    {
+      "grp": "direct",
+      "median": 1,
+      "q1": 1,
+      "q3": 2
+    }
+  ],
+  "by_method": [
+    {
+      "grp": "direct",
+      "consistent": 173,
+      "intermediate": 75,
+      "low": 562
+    },
+    {
+      "grp": "fallback",
+      "consistent": 114,
+      "intermediate": 57,
+      "low": 700
+    }
+  ],
+  "by_size": [
+    {
+      "grp": "direct",
+      "size_bin": "1",
+      "consistent": 105,
+      "intermediate": 32,
+      "low": 278
+    },
+    {
+      "grp": "direct",
+      "size_bin": "2-5",
+      "consistent": 51,
+      "intermediate": 34,
+      "low": 201
+    },
+    {
+      "grp": "direct",
+      "size_bin": "6-20",
+      "consistent": 11,
+      "intermediate": 5,
+      "low": 44
+    },
+    {
+      "grp": "direct",
+      "size_bin": ">20",
+      "consistent": 6,
+      "intermediate": 4,
+      "low": 39
+    },
+    {
+      "grp": "fallback",
+      "size_bin": "1",
+      "consistent": 66,
+      "intermediate": 24,
+      "low": 330
+    },
+    {
+      "grp": "fallback",
+      "size_bin": "2-5",
+      "consistent": 31,
+      "intermediate": 17,
+      "low": 266
+    },
+    {
+      "grp": "fallback",
+      "size_bin": "6-20",
+      "consistent": 12,
+      "intermediate": 10,
+      "low": 71
+    },
+    {
+      "grp": "fallback",
+      "size_bin": ">20",
+      "consistent": 5,
+      "intermediate": 6,
+      "low": 33
+    }
+  ],
+  "fallback_only_p12": [
+    {
+      "p12": 1e-06,
+      "fallback_consistent": 86,
+      "direct_consistent": 173,
+      "total_consistent": 259
+    },
+    {
+      "p12": 5e-06,
+      "fallback_consistent": 105,
+      "direct_consistent": 173,
+      "total_consistent": 278
+    },
+    {
+      "p12": 1e-05,
+      "fallback_consistent": 114,
+      "direct_consistent": 173,
+      "total_consistent": 287
+    },
+    {
+      "p12": 5e-05,
+      "fallback_consistent": 140,
+      "direct_consistent": 173,
+      "total_consistent": 313
+    },
+    {
+      "p12": 0.0001,
+      "fallback_consistent": 158,
+      "direct_consistent": 173,
+      "total_consistent": 331
+    }
+  ]
+}

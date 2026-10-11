@@ -7,7 +7,7 @@ Code and derived data for the manuscript
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23294824.svg)](https://doi.org/10.5281/zenodo.23294824)
 
-Archived version 1.1.0: https://doi.org/10.5281/zenodo.23294824
+Archived versions on Zenodo: version 1.1.0, https://doi.org/10.5281/zenodo.23294824 (version 1.1.1 adds the post hoc analyses of review rounds 5–6)
 
 The study re-analyzes the Kidney Disease Genetic Scorecard of Liu et al. (Science 2025). For each of 2,051 fine-mapped
 eGFRcrea signals it estimates **filtration support (f_s)**, defined as directionally concordant colocalization between
@@ -40,7 +40,7 @@ recommended use are in the README sheet and in `docs/data_dictionary.md`.
 results; it does not independently reconstruct the original colocalization or FinnGen analyses. Those require
 Workflow B, which has not been re-run end to end for this release.
 
-Workflow A was tested on clean copies of this repository: all 24 regenerated result files and figures were
+Workflow A was tested on clean copies of this repository: all 26 regenerated result files and figures were
 byte-identical to the files behind the manuscript, except that in some runs one file showed the known difference
 listed below.
 `scripts/verify_reproduction.py` performs this comparison and exits with status 1 if any other file differs or is

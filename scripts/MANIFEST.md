@@ -51,6 +51,8 @@ originally run interactively (each verified to reproduce the original file exact
 | aim2_review3.py | PH | Fold-specific standardization; no direction rule → aim2_review3.json |
 | aim2_innercv.py | PH | **Inner chromosome-grouped CV for λ** → aim2_innercv.json |
 | aim2_within_locus.py | PH | **Within-locus variation of S_g (descriptive)** → aim2_within_locus.json |
+| review5_coloc_checks.R | PH | PP.H4 of direction-rule signals; class counts under p12 1e-6 to 1e-4 (all signals) → out/review5_coloc_checks.json |
+| review6_fallback.R | PH | Classes by estimation method and credible-set size; p12 varied for fallback signals only → out/review6_fallback.json |
 
 ## 4. FinnGen (Aim 3)
 | Script | Status | Purpose |
@@ -59,11 +61,13 @@ originally run interactively (each verified to reproduce the original file exact
 | aim3_finngen.py | P | Propensity-stratified permutation tests → out/aim3_results.json |
 | aim3_finngen_v2.py | P | Adds covariate-adjusted logistic OR; `DIRECT_ONLY=1` for directly matched signals → aim3_results_v2.json, aim3_results_direct.json |
 | aim3_balance.py | PH | Covariate balance within strata → aim3_balance_dialysis.csv, aim3_strata_dialysis.csv |
+| review5_power.py | PH | Design-matched power simulation for the dialysis comparison → out/review5_power.json |
+| review6_firth.py | PH | Firth-penalized dialysis model and Newcombe interval (needs Workflow B inputs) → out/review6_firth.json |
 
 ## 5. Figures, tables and manuscript
 | Script | Purpose |
 |---|---|
 | verify_reproduction.py | Compares regenerated outputs with the files behind the manuscript (Workflow A) |
 | make_resource_table.py | Data S1 (CSV; the XLSX adds the README sheet) |
-| make_fig1.py, make_fig_map.py, make_figs.py, make_graphical_abstract.py | Figures |
+| make_fig1.py, make_fig_map.py, make_figs.py, make_graphical_abstract.py, make_ga_pptx.py | Figures and graphical abstract |
 | build_docx.py, build_iscience.py | Manuscript assembly from the authors' working document (not needed to reproduce results) |

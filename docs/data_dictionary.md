@@ -22,5 +22,5 @@ Same content as the README sheet of Supplementary_Data_1_filtration_support_map.
 | f_s_fallback_prior_sensitivity | f_s with fallback PP.H4 recomputed at p12 = 5e-6 (post hoc sensitivity) |
 | classification | Filtration-consistent (f_s >= 0.8), Intermediate (0.2 to < 0.8), Low support (< 0.2), Inconclusive |
 | inconclusive_reason | Why f_s could not be estimated |
-| n_linked_genes, linked_candidate_genes_link_weight | Candidate genes linked to the signal in the Liu et al. scorecard, with normalized link weights (sum = 1 per signal) |
+| n_linked_genes, linked_candidate_genes_link_weight | Candidate genes linked to the signal in the Liu et al. scorecard, with link weights normalized to sum to 1 per signal before rounding to two decimals (displayed values may therefore not sum exactly to 1) |
 | Missing values | Blank cells mean not applicable or not estimated: PP_H4 is blank when colocalization was not run; f_s columns are blank for inconclusive signals; inconclusive_reason is blank for scored signals; linked-gene columns are blank when the scorecard links no gene to the signal |

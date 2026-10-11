@@ -25,9 +25,9 @@ def arrow(x0, y0, x1, y1):
 ax.text(2, 98.5, "Inputs (public summary data)", fontsize=8.5, fontweight="bold", color=MUTED, va="top")
 iy, ih = 75, 19
 box(2, iy, 30.5, ih, "Kidney Disease Genetic Scorecard",
-    "Liu et al., Science 2025\n742 merged loci · 2,051 fine-mapped\nsignals (Table S8) · 8,209 genes\nScore_A, variant–gene links", GRAY_BG, GRAY_LN, fs_title=7.2)
+    "Liu et al., Science 2025\n742 merged loci · 2,051 fine-mapped\nsignals (Table S8, multi-ancestry)\n8,209 genes · Score_A · gene links", GRAY_BG, GRAY_LN, fs_title=7.2)
 box(34.75, iy, 30.5, ih, "Kidney-function GWAS",
-    "eGFRcrea · eGFRcys · BUN (European)\nSummary statistics, hg19\nLD: 1000G EUR (primary);\nUK Biobank (sensitivity)", GRAY_BG, GRAY_LN)
+    "eGFRcrea · eGFRcys · BUN (European)\nSummary statistics, GRCh37\nLD: 1000G EUR (primary);\nUK Biobank (pilot check)", GRAY_BG, GRAY_LN)
 box(67.5, iy, 30.5, ih, "External resources",
     "Benchmarks: ClinGen + PanelApp\n(primary); Groopman 2019; MGI\nConsistency check: Titan loci\nOutcomes: FinnGen R13", GRAY_BG, GRAY_LN)
 

@@ -1,0 +1,16 @@
+{
+ "design": {
+  "n_filtration": 151,
+  "n_low": 399,
+  "baseline_hit_rate": 0.0401,
+  "test": "one-sided, labels permuted within propensity quintiles (999 permutations per simulated dataset)",
+  "simulations_per_OR": 1000
+ },
+ "power": {
+  "1.5": 0.141,
+  "2.0": 0.366,
+  "2.5": 0.558,
+  "3.0": 0.766,
+  "3.5": 0.873
+ }
+}

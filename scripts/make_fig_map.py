@@ -21,7 +21,7 @@ for k in ["Low support", "Intermediate", "Filtration-consistent"]:
 inc = d[d.classification == "Inconclusive"]
 ax.scatter(inc.x, np.full(len(inc), -0.09), marker="|", s=14, color=MUTED, lw=0.6, zorder=2, label=f"Inconclusive ({len(inc)})")
 ax.axhline(0.8, color=MUTED, ls="--", lw=0.8); ax.axhline(0.2, color=MUTED, ls="--", lw=0.8)
-ax.set_xticks([off[c] + (c - 1) * gap + L[c] / 2 for c in range(1, 23)]); ax.set_xticklabels([str(c) if c < 20 or c % 2 == 0 else "" for c in range(1, 23)])
+ax.set_xticks([off[c] + (c - 1) * gap + L[c] / 2 for c in range(1, 23)]); ax.set_xticklabels([str(c) for c in range(1, 23)], fontsize=6.5)
 ax.set_xlim(d.x.min() - gap, d.x.max() + gap); ax.set_ylim(-0.15, 1.05); ax.set_yticks([0, 0.2, 0.4, 0.6, 0.8, 1.0])
 ax.set_xlabel("Chromosome (lead-variant position, GRCh37)"); ax.set_ylabel("Filtration support (f$_s$)")
 for sp in ["top", "right"]: ax.spines[sp].set_visible(False)

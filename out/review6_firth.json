@@ -1,0 +1,24 @@
+{
+ "hits": {
+  "filtration": [
+   6,
+   151
+  ],
+  "low": [
+   16,
+   399
+  ]
+ },
+ "events_per_parameter": 2.75,
+ "firth_OR": 0.889,
+ "firth_CI95_profile": [
+  0.295,
+  2.39
+ ],
+ "firth_p_LR": 0.8215,
+ "difference_in_hit_proportion": -0.0004,
+ "difference_CI95_newcombe": [
+  -0.0326,
+  0.0464
+ ]
+}

@@ -35,6 +35,9 @@ python3 scripts/aim2_p12.py                       # post hoc
 python3 scripts/aim2_review3.py                   # post hoc
 python3 scripts/aim2_innercv.py                   # post hoc
 python3 scripts/aim2_within_locus.py              # post hoc, descriptive
+Rscript scripts/review5_coloc_checks.R            # post hoc: direction-rule PP.H4, p12 range
+Rscript scripts/review6_fallback.R                 # post hoc: fallback calibration checks
+# review5_power.py (simulation) and review6_firth.py (needs FinnGen inputs) are run separately; see scripts/MANIFEST.md
 
 # Data S1 and figures (Figure 5 uses the saved Aim 3 results in out/aim3_results.json)
 python3 scripts/make_resource_table.py
