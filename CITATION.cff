@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or the filtration-support map, please cite the article below."
+title: "Filtration-support map of kidney function genetic signals: code and data"
+authors:
+  - family-names: Chen
+    given-names: Hui-Lan
+    orcid: "https://orcid.org/0000-0001-8066-3338"
+  - family-names: Jeng
+    given-names: Mei-Jy
+    orcid: "https://orcid.org/0000-0002-7427-0367"
+  - family-names: Lin
+    given-names: Chien-Hung
+    orcid: "https://orcid.org/0000-0003-0811-6529"
+  - family-names: Tang
+    given-names: Yi-Hsuan
+    orcid: "https://orcid.org/0000-0003-4240-5017"
+  - family-names: Teng
+    given-names: Chao-Ting
+  - family-names: Wang
+    given-names: Hsin-Hui
+    email: hhwang@vghtpe.gov.tw
+    orcid: "https://orcid.org/0000-0003-4476-841X"   # CFF format requires an uppercase X
+# Before release: add doi: <Zenodo DOI> and repository-code: <GitHub URL>.
+version: 1.1.0
+date-released: 2026-10-11   # update to the actual GitHub release date
+license: MIT

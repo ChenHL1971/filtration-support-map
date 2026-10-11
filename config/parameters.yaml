@@ -1,0 +1,49 @@
+# Reference copy of the analysis parameters as implemented.
+# IMPORTANT: this file is NOT read by any script. The parameters actually used are set inside each script
+# (e.g. MAXV and FLANK in aim1_coloc_full.R, GRID and B in aim2_models.py). The scripts were left unchanged so that
+# they remain identical to the versions that produced the reported results; editing this file changes nothing.
+analysis_plan:
+  version: Plan-5
+  locked: 2026-10-08
+random_seed: 20261008
+aim1_colocalization:
+  gwas_build: GRCh37/hg19
+  ld_reference_primary: 1000 Genomes Phase 3 EUR (MAGMA g1000_eur)
+  ld_reference_sensitivity: UK Biobank LD (Weissbrod et al.), pilot loci only
+  locus_flank_bp: 250000
+  max_variants_per_locus: 4000          # top |z| retained when exceeded (affected 9 loci)
+  susie: {L: 10, maxit: 1000, repeat_until_convergence: false}
+  coloc_susie_priors: {p1: 1.0e-4, p2: 1.0e-4, p12: 5.0e-6}   # coloc defaults
+  fallback_coloc_abf_p12: 1.0e-5        # coloc.abf default as run; post hoc sensitivity with 5e-6 (fs_fallback_p12.R)
+  palindromic_exclusion_maf: 0.42
+  signal_mapping:
+    credible_set_overlap_min: 0.5
+    lead_r2_min: 0.8
+  credible_set_coverage_min: 0.8        # below this a signal is inconclusive
+  direction_rule: "f_s = PP.H4 if eGFRcrea and eGFRcys effects concordant; 0 if opposite"
+  classes: {filtration_consistent: ">= 0.8", intermediate: "0.2 to < 0.8", low: "< 0.2"}
+aim2_gene_prioritization:
+  gene_score_S_g: link-weighted mean of f_s over linked signals (Liu target score as weight)
+  score_A: max over variant-gene pairs of Prioritization Score minus Gene Monogenic
+  score_C: "Z(Score_A) + lambda * Z(S_g)"
+  lambda_grid: [0.0, 2.0, 0.1]
+  cross_validation: leave-one-chromosome-out; lambda tuned on training chromosomes (primary as implemented)
+  inner_cv_posthoc: five-fold chromosome-grouped inner CV within each training set
+  outcome: AUPRC
+  minimum_meaningful_difference: 0.03
+  bootstrap: {scorecard_models: 2000, learned_models: 1000, mgi_benchmark: 1000, unit: chromosome}
+  learned_models:
+    l1_logistic: {penalty_tuning: five-fold chromosome-grouped CV within training set, class_weight: balanced}
+    xgboost: {n_estimators: 200, max_depth: 3, learning_rate: 0.05, subsample: 0.8, colsample_bytree: 0.8}
+  benchmark_primary: ClinGen Definitive/Strong (5 kidney GCEPs, 2026-10-09) UNION PanelApp green (kidney panels, 2026-10-10)
+aim3_finngen:
+  release: FinnGen R13
+  classes_compared: {filtration_consistent: ">= 0.8", low: "< 0.2"}
+  pruning: 1 Mb, keep strongest |z|
+  hit_definition: "P < 0.05 with increased risk for the eGFRcrea-lowering allele"
+  permutations: 10000
+  propensity_strata: quintiles
+  primary_outcome: N14_DIALYSIS
+  secondary_outcomes: [N14_CHRONKIDNEYDIS, N14_ACUTERENFAIL, Z21_KIDNEY_TRANSPLANT_STATUS]
+  negative_control: H7_VITROPACIT
+  multiple_testing: Benjamini-Hochberg across secondary outcomes

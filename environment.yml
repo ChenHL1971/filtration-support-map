@@ -1,0 +1,13 @@
+name: filtration-support-map
+channels: [conda-forge]
+dependencies:
+  - python=3.13
+  - r-base=4.3.3
+  - r-data.table
+  - r-readxl
+  - r-susier=0.12.35
+  - r-coloc=6.0.3
+  - pip
+  - pip:
+      - -r requirements.txt
+# LDlinkR is needed only for scripts/local_helpers/ld_crosswalk.R (requires a personal LDlink token, never stored in this repository).
