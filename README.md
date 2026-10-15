@@ -3,7 +3,7 @@
 Code and derived data for the manuscript
 
 > **A Filtration-Support Map of Kidney Function Genetic Signals: Consistency and Incremental Value for Gene Prioritization.**
-> Hui-Lan Chen, Mei-Jy Jeng, Yi-Hsuan Tang, Chien-Hung Lin, Chao-Ting Teng, Hsin-Hui Wang. Manuscript prepared for submission to *iScience*.
+> Hui-Lan Chen, Mei-Jy Jeng, Yi-Hsuan Tang, Chien-Hung Lin, Chao-Ting Teng, Hsin-Hui Wang. Manuscript submitted for publication.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23296596.svg)](https://doi.org/10.5281/zenodo.23296596)
 
